@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<openerp>
+	<data>
+		<template id="report_schapetiket">
+			<t t-call="report.html_container">
+				<t t-call="cwa_module.report_external_layout_shapetiket">
+					<div class="page">
+						<t t-foreach="range(0, len(docs), 3)" t-as="i">
+						    <!-- set row length -->
+							<t t-if="(i + 1) == len(docs)">
+								<t t-set="row_length" t-value="1"/>
+							</t>
+							<t t-if="(i + 1) &lt; len(docs) and (i + 3) &gt; len(docs)">
+								<t t-set="row_length" t-value="2"/>
+							</t>
+							<t t-if="(i + 2) &lt; len(docs)">
+								<t t-set="row_length" t-value="3"/>
+							</t>
+							<!-- Label -->
+                			<div class="row" style="overflow:hidden;">
+								<t t-foreach="range(0, row_length, 1)" t-as="j">
+									<div class="col-xs-4" style="height:12mm;overflow:hidden;test-overflow:hidden;text-align:right;">
+										<strong><p t-field="docs[i+j].name"/></strong>    
+									</div>
+								</t>
+							</div>
+							<div class="row">
+								<t t-foreach="range(0, row_length, 1)" t-as="j">
+									<div class="col-xs-2" style="height:6mm;">
+										<p t-field="docs[i+j].merk" style="white-space:nowrap;overflow:hidden;text-overflow:hidden;"/>
+									</div>
+									<div class="col-xs-2" style="text-align:right;height:6mm;">
+									    <strong><b><p style="display:inline;">€</p>
+										<p style="display:inline;" t-field="docs[i+j].list_price" t-field-options='{"format": "####2"}'/></b></strong>
+									</div>
+								</t>
+							</div>
+							<div class="row" style="font-size:10px!important;">
+							    <t t-foreach="range(0, row_length, 1)" t-as="j">
+							        <div class="col-xs-1" style="height:5mm;">
+							            <p t-field="docs[i+j].kwaliteit" style="white-space:nowrap;overflow:hidden;text-overflow:hidden;" />
+							        </div>
+							        <div class="col-xs-1" style="height:5mm;">
+							            <p t-field="docs[i+j].uom_id.name" style="white-space:nowrap;overflow:hidden;text-overflow:hidden;" />
+							        </div>
+							        <div class="col-xs-1" style="height:5mm;">
+							            <p t-field="docs[i+j].inhoud" style="white-space:nowrap;overflow:hidden;text-overflow:hidden;text-align:right;" />
+							        </div>
+							        <div class="col-xs-1" style="height:5mm;">
+							            <p t-field="docs[i+j].eenheid" style="white-space:nowrap;overflow:hidden;text-overflow:hidden;display:inline;text-align:left;" />
+							        </div>
+							    </t> 
+							    
+							</div>
+							<div class="row">
+								<t t-foreach="range(0, row_length, 1)" t-as="j">
+									<div class="col-xs-1" style="height:13mm;white-space:nowrap;">
+									    <p style="font-size:8px;display:inline;" t-field="docs[i+j].seller_ids[0].name.ref" />
+									    <p style="font-size:8px;display:inline;" t-field="docs[i+j].seller_ids[0].min_qty" />
+									    <p style="font-size:8px;" t-field="docs[i+j].ean13" />
+									</div>
+									<div class="col-xs-3" style="height:13mm;">
+										<div t-if="docs[i+j].ean13">
+										    <img t-att-src="'/report/barcode/?type=%s&amp;value=%s&amp;width=%s&amp;height=%s&amp;humanreadable=1' % ('I2of5', docs[i+j].seller_ids[0].product_code, 400, 100)" style="width:46mm;height:12mm;" />
+										</div>
+									</div>
+								</t>
+							</div>	
+							<!-- spacing -->
+							<div class="row">
+							    <div class="col-xs-4" style="height:3mm" />
+							</div>
+						</t>
+					</div>
+				</t>
+			</t>
+		</template>
+	</data>
+</openerp>
+
+	

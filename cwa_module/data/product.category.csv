@@ -1,0 +1,660 @@
+id,name,parent_id/id
+cwa_cbl_cat.1300000,"aardappelen, groenten en fruit",
+cwa_cbl_cat.1310000,"aardappelen, groenten en fruit houdbaar",cwa_cbl_cat.1300000
+cwa_cbl_cat.1310500,aardappelproducten,cwa_cbl_cat.1310000
+cwa_cbl_cat.1310505,aardappelpuree,cwa_cbl_cat.1310500
+cwa_cbl_cat.1311000,groenteconserven,cwa_cbl_cat.1310505
+cwa_cbl_cat.1311015,appelmoes,cwa_cbl_cat.1311000
+cwa_cbl_cat.1311010,blikconserven,cwa_cbl_cat.1311000
+cwa_cbl_cat.1311020,gedroogde peulvruchten / groenten,cwa_cbl_cat.1311000
+cwa_cbl_cat.1311005,glasconserven,cwa_cbl_cat.1311000
+cwa_cbl_cat.1311035,olijven houdbaar,cwa_cbl_cat.1311000
+cwa_cbl_cat.1311500,vruchtenconserven,cwa_cbl_cat.1311035
+cwa_cbl_cat.1311510,vruchtenconserven in blik,cwa_cbl_cat.1311500
+cwa_cbl_cat.1311505,vruchtenconserven in glas,cwa_cbl_cat.1311500
+cwa_cbl_cat.1311030,tomaten,cwa_cbl_cat.1311000
+cwa_cbl_cat.1311031,tomatenpuree,cwa_cbl_cat.1311000
+cwa_cbl_cat.1320000,"aardappelen, groenten en fruit (semi) vers",cwa_cbl_cat.1300000
+cwa_cbl_cat.1320500,aardappelen,cwa_cbl_cat.1320000
+cwa_cbl_cat.1320510,geschilde aardappel,cwa_cbl_cat.1320500
+cwa_cbl_cat.1321000,aardappelproducten,cwa_cbl_cat.1320510
+cwa_cbl_cat.1321020,k&k aardappelproducten met toevoegingen,cwa_cbl_cat.1321000
+cwa_cbl_cat.1321500,verse groenten,cwa_cbl_cat.1321020
+cwa_cbl_cat.1321520,bewerkte groenten,cwa_cbl_cat.1321500
+cwa_cbl_cat.1321525,gemengde verse groenten,cwa_cbl_cat.1321500
+cwa_cbl_cat.1321505,groenten onbewerkt,cwa_cbl_cat.1321500
+cwa_cbl_cat.1321510,"komkommer, uien, knoflook, champignons, paprika's",cwa_cbl_cat.1321500
+cwa_cbl_cat.1321535,"olijven, pommodori, pepperoni",cwa_cbl_cat.1321500
+cwa_cbl_cat.1322000,vers fruit,cwa_cbl_cat.1321535
+cwa_cbl_cat.1322025,bessen,cwa_cbl_cat.1322000
+cwa_cbl_cat.1322015,citrusvruchten,cwa_cbl_cat.1322000
+cwa_cbl_cat.1322020,exoten,cwa_cbl_cat.1322000
+cwa_cbl_cat.1322030,fruitmanden,cwa_cbl_cat.1322000
+cwa_cbl_cat.1322005,hard fruit,cwa_cbl_cat.1322000
+cwa_cbl_cat.1322040,k&k vers fruit,cwa_cbl_cat.1322000
+cwa_cbl_cat.1322035,verse noten,cwa_cbl_cat.1322000
+cwa_cbl_cat.1322010,zacht fruit,cwa_cbl_cat.1322000
+cwa_cbl_cat.1321530,"tahoe, tempeh, tofu",cwa_cbl_cat.1321500
+cwa_cbl_cat.1321515,verse kruiden en kruiden op nat,cwa_cbl_cat.1321500
+cwa_cbl_cat.1321010,k&k aardappelproducten naturel,cwa_cbl_cat.1321000
+cwa_cbl_cat.1321005,verse frites,cwa_cbl_cat.1321000
+cwa_cbl_cat.1320505,onbewerkte aardappelen,cwa_cbl_cat.1320500
+cwa_cbl_cat.1330000,"diepvries aardappels, groenten en fruit",cwa_cbl_cat.1300000
+cwa_cbl_cat.1330500,diepvries aardappelproducten,cwa_cbl_cat.1330000
+cwa_cbl_cat.1330505,frites,cwa_cbl_cat.1330500
+cwa_cbl_cat.1330510,overige enkelvoudige aardappelproducten,cwa_cbl_cat.1330500
+cwa_cbl_cat.1331000,groenteproducten,cwa_cbl_cat.1330510
+cwa_cbl_cat.1331005,enkelvoudige en samengestelde groenten,cwa_cbl_cat.1331000
+cwa_cbl_cat.1331020,fruit en vruchtenmelange,cwa_cbl_cat.1331000
+cwa_cbl_cat.1331015,kruiden,cwa_cbl_cat.1331000
+cwa_cbl_cat.1331010,soepgroenten,cwa_cbl_cat.1331000
+cwa_cbl_cat.2600000,bloemen en planten,
+cwa_cbl_cat.2620000,bloemen en planten vers,cwa_cbl_cat.2600000
+cwa_cbl_cat.2620500,verse bloemen en planten,cwa_cbl_cat.2620000
+cwa_cbl_cat.2620510,(kamer)planten,cwa_cbl_cat.2620500
+cwa_cbl_cat.2620515,seizoensartikelen,cwa_cbl_cat.2620500
+cwa_cbl_cat.2620505,snijbloemen,cwa_cbl_cat.2620500
+cwa_cbl_cat.2610000,houdbaar bloemen en planten,cwa_cbl_cat.2600000
+cwa_cbl_cat.2610500,bloemen- en plantverzorging,cwa_cbl_cat.2610000
+cwa_cbl_cat.2610505,bloemen- en plantvoeding en verzorging,cwa_cbl_cat.2610500
+cwa_cbl_cat.2610520,potgrond,cwa_cbl_cat.2610500
+cwa_cbl_cat.1700000,brood en gebak,
+cwa_cbl_cat.1730000,diepvries brood en gebak,cwa_cbl_cat.1700000
+cwa_cbl_cat.1730500,diepvries bakkerijproducten,cwa_cbl_cat.1730000
+cwa_cbl_cat.1730505,bladerdeeg,cwa_cbl_cat.1730500
+cwa_cbl_cat.1731000,gebak,cwa_cbl_cat.1730505
+cwa_cbl_cat.1731005,groot gebak,cwa_cbl_cat.1731000
+cwa_cbl_cat.1731010,klein gebak,cwa_cbl_cat.1731000
+cwa_cbl_cat.1710000,houdbaar brood en gebak,cwa_cbl_cat.1700000
+cwa_cbl_cat.1710500,houdbaar brood,cwa_cbl_cat.1710000
+cwa_cbl_cat.1710510,buitenlands/houdbaar  brood,cwa_cbl_cat.1710500
+cwa_cbl_cat.1710515,halffabrikaten,cwa_cbl_cat.1710500
+cwa_cbl_cat.1711000,broodvervangers,cwa_cbl_cat.1710515
+cwa_cbl_cat.1711005,beschuit,cwa_cbl_cat.1711000
+cwa_cbl_cat.1711010,gepofte rijstwafels,cwa_cbl_cat.1711000
+cwa_cbl_cat.1711020,geroosterd brood / crackers groot,cwa_cbl_cat.1711000
+cwa_cbl_cat.1711015,knÃ€ckebrÃ¶d,cwa_cbl_cat.1711000
+cwa_cbl_cat.1711025,ontbijtkoek,cwa_cbl_cat.1711000
+cwa_cbl_cat.1710505,roggebrood,cwa_cbl_cat.1710500
+cwa_cbl_cat.1720000,vers brood en gebak,cwa_cbl_cat.1700000
+cwa_cbl_cat.1720500,groot brood,cwa_cbl_cat.1720000
+cwa_cbl_cat.1720510,bruin brood,cwa_cbl_cat.1720500
+cwa_cbl_cat.1720530,gevuld brood,cwa_cbl_cat.1720500
+cwa_cbl_cat.1721000,klein brood,cwa_cbl_cat.1720530
+cwa_cbl_cat.1721020,klein brood gevuld,cwa_cbl_cat.1721000
+cwa_cbl_cat.1721300,halffabrikaat,cwa_cbl_cat.1721020
+cwa_cbl_cat.1721315,halffabrikaat vers gekoeld ,cwa_cbl_cat.1721300
+cwa_cbl_cat.1721500,snacks,cwa_cbl_cat.1721315
+cwa_cbl_cat.1721515,broodsnacks groot,cwa_cbl_cat.1721500
+cwa_cbl_cat.1722000,stokbrood,cwa_cbl_cat.1721515
+cwa_cbl_cat.1722010,gekoelde halffabrikaten groot,cwa_cbl_cat.1722000
+cwa_cbl_cat.1722500,seizoensbrood,cwa_cbl_cat.1722010
+cwa_cbl_cat.1722505,seizoensbrood,cwa_cbl_cat.1722500
+cwa_cbl_cat.1723000,groot gebak,cwa_cbl_cat.1722505
+cwa_cbl_cat.1723005,taarten en schnittes,cwa_cbl_cat.1723000
+cwa_cbl_cat.1723010,vlaaien,cwa_cbl_cat.1723000
+cwa_cbl_cat.1723500,klein gebak,cwa_cbl_cat.1723010
+cwa_cbl_cat.1723505,klein gebak,cwa_cbl_cat.1723500
+cwa_cbl_cat.1724000,banket,cwa_cbl_cat.1723505
+cwa_cbl_cat.1724005,banket,cwa_cbl_cat.1724000
+cwa_cbl_cat.1722005,stokbrood,cwa_cbl_cat.1722000
+cwa_cbl_cat.1721505,hartige snacks,cwa_cbl_cat.1721500
+cwa_cbl_cat.1721510,zoete snacks,cwa_cbl_cat.1721500
+cwa_cbl_cat.1721015,klein brood volkoren en meergranen,cwa_cbl_cat.1721000
+cwa_cbl_cat.1721010,klein bruinbrood,cwa_cbl_cat.1721000
+cwa_cbl_cat.1721005,klein witbrood,cwa_cbl_cat.1721000
+cwa_cbl_cat.1720520,meergranenbrood,cwa_cbl_cat.1720500
+cwa_cbl_cat.1720515,volkorenbrood,cwa_cbl_cat.1720500
+cwa_cbl_cat.1720505,wit brood,cwa_cbl_cat.1720500
+cwa_cbl_cat.2700000,dierenbenodigdheden,
+cwa_cbl_cat.2710000,houdbare dierenbenodigdheden,cwa_cbl_cat.2700000
+cwa_cbl_cat.2710500,dierenbenodigdheden,cwa_cbl_cat.2710000
+cwa_cbl_cat.2710505,dierenbenodigdheden,cwa_cbl_cat.2710500
+cwa_cbl_cat.2710520,"hooi, stro",cwa_cbl_cat.2710500
+cwa_cbl_cat.2710510,kattenbakvulling,cwa_cbl_cat.2710500
+cwa_cbl_cat.2710515,schelpenzand,cwa_cbl_cat.2710500
+cwa_cbl_cat.1900000,dierenvoeding,
+cwa_cbl_cat.1930000,diepvries dierenvoer,cwa_cbl_cat.1900000
+cwa_cbl_cat.1930500,diepvries dierenvoer,cwa_cbl_cat.1930000
+cwa_cbl_cat.1930505,"orgaanvlees, diepvries",cwa_cbl_cat.1930500
+cwa_cbl_cat.1910000,houdbare dierenvoeding,cwa_cbl_cat.1900000
+cwa_cbl_cat.1910500,hondenvoer,cwa_cbl_cat.1910000
+cwa_cbl_cat.1910505,droog hondenvoer,cwa_cbl_cat.1910500
+cwa_cbl_cat.1910510,nat hondenvoer,cwa_cbl_cat.1910500
+cwa_cbl_cat.1910515,snacks voor honden,cwa_cbl_cat.1910500
+cwa_cbl_cat.1911000,kattenvoer,cwa_cbl_cat.1910515
+cwa_cbl_cat.1911005,droog kattenvoer,cwa_cbl_cat.1911000
+cwa_cbl_cat.1911010,nat kattenvoer,cwa_cbl_cat.1911000
+cwa_cbl_cat.1911015,snacks voor katten,cwa_cbl_cat.1911000
+cwa_cbl_cat.1911500,overig voer,cwa_cbl_cat.1911015
+cwa_cbl_cat.1911510,knaagdiervoer,cwa_cbl_cat.1911500
+cwa_cbl_cat.1911515,visvoer,cwa_cbl_cat.1911500
+cwa_cbl_cat.1911505,vogelvoer,cwa_cbl_cat.1911500
+cwa_cbl_cat.1920000,vers dierenvoer,cwa_cbl_cat.1900000
+cwa_cbl_cat.1920500,vers dierenvoer,cwa_cbl_cat.1920000
+cwa_cbl_cat.1920505,orgaanvlees vers,cwa_cbl_cat.1920500
+cwa_cbl_cat.2100000,drogmetica,
+cwa_cbl_cat.2110000,houdbare drogmetica,cwa_cbl_cat.2100000
+cwa_cbl_cat.2110500,"lichaamsverzorging, medische verzorging",cwa_cbl_cat.2110000
+cwa_cbl_cat.2110535,babyverzorging,cwa_cbl_cat.2110500
+cwa_cbl_cat.2110550,condooms,cwa_cbl_cat.2110500
+cwa_cbl_cat.2111000,periodeverzorging en luiers,cwa_cbl_cat.2110550
+cwa_cbl_cat.2111005,"damesverband, inlegkruisjes, tampons",cwa_cbl_cat.2111000
+cwa_cbl_cat.2111015,incontinentieproducten,cwa_cbl_cat.2111000
+cwa_cbl_cat.2111500,sanitaire papierwaren,cwa_cbl_cat.2111015
+cwa_cbl_cat.2111510,keukenrollen,cwa_cbl_cat.2111500
+cwa_cbl_cat.2112000,zakdoekjes,cwa_cbl_cat.2111510
+cwa_cbl_cat.2112005,"papieren zakdoekjes, tissues",cwa_cbl_cat.2112000
+cwa_cbl_cat.2111505,(vochtig) wc-papier,cwa_cbl_cat.2111500
+cwa_cbl_cat.2111010,weggooiluiers,cwa_cbl_cat.2111000
+cwa_cbl_cat.2110512,dames en herengeuren,cwa_cbl_cat.2110500
+cwa_cbl_cat.2110515,decoratieve cosmetica en toebehoren,cwa_cbl_cat.2110500
+cwa_cbl_cat.2110511,deodorants,cwa_cbl_cat.2110500
+cwa_cbl_cat.2110530,mondverzorging,cwa_cbl_cat.2110500
+cwa_cbl_cat.2110513,ontharingsproducten,cwa_cbl_cat.2110500
+cwa_cbl_cat.2110525,overige haarverzorgings producten,cwa_cbl_cat.2110500
+cwa_cbl_cat.2110540,scheerproducten en toebehoren,cwa_cbl_cat.2110500
+cwa_cbl_cat.2110520,shampoo,cwa_cbl_cat.2110500
+cwa_cbl_cat.2110505,"toiletzeep, badzeep, doucheschuim",cwa_cbl_cat.2110500
+cwa_cbl_cat.2110510,verzorgende cosmetica,cwa_cbl_cat.2110500
+cwa_cbl_cat.2110545,"wondartikelen, inhaler",cwa_cbl_cat.2110500
+cwa_cbl_cat.2500000,huishoudelijke artikelen,
+cwa_cbl_cat.2510000,houdbare huishoudelijke artikelen,cwa_cbl_cat.2500000
+cwa_cbl_cat.2511000,huishoudelijke waren en onderhoudsmateriaal,cwa_cbl_cat.2510000
+cwa_cbl_cat.2511015,"boterhamzakjes, diepvrieszakjes",cwa_cbl_cat.2511000
+cwa_cbl_cat.2511010,huishoudfolie,cwa_cbl_cat.2511000
+cwa_cbl_cat.2511040,insectenverdelgers,cwa_cbl_cat.2511000
+cwa_cbl_cat.2512000,babyartikelen,cwa_cbl_cat.2511040
+cwa_cbl_cat.2512005,"zuigflessen, spenen",cwa_cbl_cat.2512000
+cwa_cbl_cat.2512500,panty's/nylons,cwa_cbl_cat.2512005
+cwa_cbl_cat.2512505,panty's/nylons,cwa_cbl_cat.2512500
+cwa_cbl_cat.2513000,sfeer en verlichting,cwa_cbl_cat.2512505
+cwa_cbl_cat.2513020,"aanmaakblokjes, houtskool",cwa_cbl_cat.2513000
+cwa_cbl_cat.2513010,batterijen,cwa_cbl_cat.2513000
+cwa_cbl_cat.2513005,gloeilampen,cwa_cbl_cat.2513000
+cwa_cbl_cat.2513015,"kaarsen, waxinelichtjes",cwa_cbl_cat.2513000
+cwa_cbl_cat.2513025,lucifers,cwa_cbl_cat.2513000
+cwa_cbl_cat.2511025,koffiefilters,cwa_cbl_cat.2511000
+cwa_cbl_cat.2511035,onderhoudsmaterialen / borstelwerk,cwa_cbl_cat.2511000
+cwa_cbl_cat.2511005,"vuilniszakken, pedaalemmerzakken",cwa_cbl_cat.2511000
+cwa_cbl_cat.2511020,"wasemkapfilters, stofzuigerzakken",cwa_cbl_cat.2511000
+cwa_cbl_cat.2511030,wegwerpartikelen,cwa_cbl_cat.2511000
+cwa_cbl_cat.1200000,kaas,
+cwa_cbl_cat.1220000,kaas (semi-) vers,cwa_cbl_cat.1200000
+cwa_cbl_cat.1220500,Nederlandse kaas uitsnij,cwa_cbl_cat.1220000
+cwa_cbl_cat.1220505,Nederlandse kaas uitsnij,cwa_cbl_cat.1220500
+cwa_cbl_cat.1221000,Nederlandse kaas verpakt,cwa_cbl_cat.1220505
+cwa_cbl_cat.1221020,"Nederlandse kaas, verpakt, gesneden en blokjes",cwa_cbl_cat.1221000
+cwa_cbl_cat.1221500,buitenlandse specialiteiten uitsnij,cwa_cbl_cat.1221020
+cwa_cbl_cat.1221505,buitenlandse specialiteiten uitsnij,cwa_cbl_cat.1221500
+cwa_cbl_cat.1222000,buitenlandse specialiteiten verpakt,cwa_cbl_cat.1221505
+cwa_cbl_cat.1222005,"buitenlandse specialiteiten, verpakt",cwa_cbl_cat.1222000
+cwa_cbl_cat.1222500,overige soorten verpakte kaas,cwa_cbl_cat.1222005
+cwa_cbl_cat.1222505,geraspte kaas verpakt,cwa_cbl_cat.1222500
+cwa_cbl_cat.1222515,smeerkaas / kaasspread/ dippers,cwa_cbl_cat.1222500
+cwa_cbl_cat.1221005,Nederlandse kaas verpakt ongesneden,cwa_cbl_cat.1221000
+cwa_cbl_cat.2300000,kantoorbenodigdheden en wenskaarten,
+cwa_cbl_cat.2310500,kantoorbenodigdheden,cwa_cbl_cat.2300000
+cwa_cbl_cat.2310510,bureau accessoires,cwa_cbl_cat.2310500
+cwa_cbl_cat.2310525,enveloppen,cwa_cbl_cat.2310500
+cwa_cbl_cat.2310530,"kadopapier, feestartikelen, decoraties",cwa_cbl_cat.2310500
+cwa_cbl_cat.2311000,wenskaarten,cwa_cbl_cat.2310530
+cwa_cbl_cat.2311005,wenskaarten,cwa_cbl_cat.2311000
+cwa_cbl_cat.2310520,"schrijfblokken, multo-papier, schriften",cwa_cbl_cat.2310500
+cwa_cbl_cat.2310505,schrijfwaren,cwa_cbl_cat.2310500
+cwa_cbl_cat.1000000,kruidenierswaren,
+cwa_cbl_cat.1010000,houdbare kruidenierswaren,cwa_cbl_cat.1000000
+cwa_cbl_cat.1010500,"koffie, cacao, thee",cwa_cbl_cat.1010000
+cwa_cbl_cat.1010525,anijsblokjes,cwa_cbl_cat.1010500
+cwa_cbl_cat.1010520,cacao,cwa_cbl_cat.1010500
+cwa_cbl_cat.1010505,koffie,cwa_cbl_cat.1010500
+cwa_cbl_cat.1010506,koffiepads,cwa_cbl_cat.1010500
+cwa_cbl_cat.1010515,koffiestroop,cwa_cbl_cat.1010500
+cwa_cbl_cat.1010512,new instant oploskoffie,cwa_cbl_cat.1010500
+cwa_cbl_cat.1010510,oploskoffie,cwa_cbl_cat.1010500
+cwa_cbl_cat.1010530,thee,cwa_cbl_cat.1010500
+cwa_cbl_cat.1011000,"houdbare koffiemelk, houdbare koffieroom",cwa_cbl_cat.1010530
+cwa_cbl_cat.1011010,"koffiecreamer, melkpoeder",cwa_cbl_cat.1011000
+cwa_cbl_cat.1011500,suiker,cwa_cbl_cat.1011010
+cwa_cbl_cat.1011505,kristalsuiker,cwa_cbl_cat.1011500
+cwa_cbl_cat.1011510,overige suiker,cwa_cbl_cat.1011500
+cwa_cbl_cat.1011520,"suikerstroop, schenkstroop",cwa_cbl_cat.1011500
+cwa_cbl_cat.1012000,rijst en deegwaren HB,cwa_cbl_cat.1011520
+cwa_cbl_cat.1012010,deegwaren,cwa_cbl_cat.1012000
+cwa_cbl_cat.1012500,ontbijtproducten,cwa_cbl_cat.1012010
+cwa_cbl_cat.1012510,cornflakes,cwa_cbl_cat.1012500
+cwa_cbl_cat.1012505,geplette graanproducten,cwa_cbl_cat.1012500
+cwa_cbl_cat.1012515,muesli,cwa_cbl_cat.1012500
+cwa_cbl_cat.1013000,bakproducten en dessertingrediÃ«nten,cwa_cbl_cat.1012515
+cwa_cbl_cat.1013025,bindmiddelen,cwa_cbl_cat.1013000
+cwa_cbl_cat.1013005,bloem en toebereide bloem,cwa_cbl_cat.1013000
+cwa_cbl_cat.1013020,broodmixen,cwa_cbl_cat.1013000
+cwa_cbl_cat.1013030,diverse bakbenodigdheden,cwa_cbl_cat.1013000
+cwa_cbl_cat.1013065,"gedroogde vruchten, gedroogde zuidvruchten",cwa_cbl_cat.1013000
+cwa_cbl_cat.1013500,"soepen, bouillons",cwa_cbl_cat.1013065
+cwa_cbl_cat.1013520,bouillons droog,cwa_cbl_cat.1013500
+cwa_cbl_cat.1013522,bouillons nat,cwa_cbl_cat.1013500
+cwa_cbl_cat.1013535,smaakversterkers voor soep,cwa_cbl_cat.1013500
+cwa_cbl_cat.1014000,"sauzen, mixen",cwa_cbl_cat.1013535
+cwa_cbl_cat.1014045,azijn,cwa_cbl_cat.1014000
+cwa_cbl_cat.1014040,olien,cwa_cbl_cat.1014000
+cwa_cbl_cat.1014035,slaversierders (droog en nat),cwa_cbl_cat.1014000
+cwa_cbl_cat.1014025,smaakmakers compleet droog warm en koud,cwa_cbl_cat.1014000
+cwa_cbl_cat.1014030,smaakmakers compleet droog warm en koud overig,cwa_cbl_cat.1014000
+cwa_cbl_cat.1014005,smaakmakers component droog koud,cwa_cbl_cat.1014000
+cwa_cbl_cat.1014010,smaakmakers component droog warm,cwa_cbl_cat.1014000
+cwa_cbl_cat.1014015,smaakmakers component nat koud,cwa_cbl_cat.1014000
+cwa_cbl_cat.1014020,smaakmakers component  nat warm,cwa_cbl_cat.1014000
+cwa_cbl_cat.1014050,zuren,cwa_cbl_cat.1014000
+cwa_cbl_cat.1014500,"reformproducten, dieetproducten",cwa_cbl_cat.1014050
+cwa_cbl_cat.1014510,dieetproducten,cwa_cbl_cat.1014500
+cwa_cbl_cat.1015000,"babyvoeding, kindervoeding",cwa_cbl_cat.1014510
+cwa_cbl_cat.1015010,"formulevoeding, granenvoeding",cwa_cbl_cat.1015000
+cwa_cbl_cat.1015005,"kinderkoek, kinderbiscuit",cwa_cbl_cat.1015000
+cwa_cbl_cat.1015015,"kindermaaltijden, happen nat",cwa_cbl_cat.1015000
+cwa_cbl_cat.1015020,"kindersiropen, dranken",cwa_cbl_cat.1015000
+cwa_cbl_cat.1015500,boterhambeleg,cwa_cbl_cat.1015020
+cwa_cbl_cat.1015510,boterhamsmeersels,cwa_cbl_cat.1015500
+cwa_cbl_cat.1015520,boterhamstrooisels,cwa_cbl_cat.1015500
+cwa_cbl_cat.1015525,cocosbrood,cwa_cbl_cat.1015500
+cwa_cbl_cat.1016000,"koek, koekjes, banketstuksartikelen",cwa_cbl_cat.1015525
+cwa_cbl_cat.1016015,"banket stuksartikelen, cake",cwa_cbl_cat.1016000
+cwa_cbl_cat.1016010,"koekjes, wafels en biscuits",cwa_cbl_cat.1016000
+cwa_cbl_cat.1016020,seizoensartikelen koek(jes),cwa_cbl_cat.1016000
+cwa_cbl_cat.1016025,tussendoor koek,cwa_cbl_cat.1016000
+cwa_cbl_cat.1016100,chocolade en chocoladeproducten,cwa_cbl_cat.1016025
+cwa_cbl_cat.1016115,candybars,cwa_cbl_cat.1016100
+cwa_cbl_cat.1016105,"chocoladeproducten, bonbons, bite sizes",cwa_cbl_cat.1016100
+cwa_cbl_cat.1016110,chocoladerepen en tabletten,cwa_cbl_cat.1016100
+cwa_cbl_cat.1016120,seizoensartikelen chocolade,cwa_cbl_cat.1016100
+cwa_cbl_cat.1016200,snoep en zoetwaren,cwa_cbl_cat.1016120
+cwa_cbl_cat.1016215,"drop, hoestartikelen",cwa_cbl_cat.1016200
+cwa_cbl_cat.1016210,kauwgom,cwa_cbl_cat.1016200
+cwa_cbl_cat.1016220,seizoenartikelen snoep,cwa_cbl_cat.1016200
+cwa_cbl_cat.1016500,"zoutjes, onderleggers, notenbarproducten",cwa_cbl_cat.1016220
+cwa_cbl_cat.1016505,chips,cwa_cbl_cat.1016500
+cwa_cbl_cat.1016515,cocktailsnacks,cwa_cbl_cat.1016500
+cwa_cbl_cat.1016530,"melba toast, toastjes, crackers, cups",cwa_cbl_cat.1016500
+cwa_cbl_cat.1017000,bieren,cwa_cbl_cat.1016530
+cwa_cbl_cat.1017005,"alcoholvrij, alcoholarm bier",cwa_cbl_cat.1017000
+cwa_cbl_cat.1017010,pilseners,cwa_cbl_cat.1017000
+cwa_cbl_cat.1017015,speciaalbieren,cwa_cbl_cat.1017000
+cwa_cbl_cat.1017500,wijnen en aperitieven,cwa_cbl_cat.1017015
+cwa_cbl_cat.1017531,mixdranken,cwa_cbl_cat.1017500
+cwa_cbl_cat.1018000,niet alcoholhoudende dranken,cwa_cbl_cat.1017531
+cwa_cbl_cat.1018002,cola,cwa_cbl_cat.1018000
+cwa_cbl_cat.1018025,"C-siropen, geconcentreerd vruchtensap",cwa_cbl_cat.1018000
+cwa_cbl_cat.1018004,"lemon, lime",cwa_cbl_cat.1018000
+cwa_cbl_cat.1018010,mineraal- en bronwaters,cwa_cbl_cat.1018000
+cwa_cbl_cat.1018005,overige frisdranken,cwa_cbl_cat.1018000
+cwa_cbl_cat.1018003,sinas,cwa_cbl_cat.1018000
+cwa_cbl_cat.1018030,sport- en energiedranken,cwa_cbl_cat.1018000
+cwa_cbl_cat.1018015,(vruchten)limonadesiropen en -poeders,cwa_cbl_cat.1018000
+cwa_cbl_cat.1018020,"vruchtensappen, vruchtendranken, groentesappen",cwa_cbl_cat.1018000
+cwa_cbl_cat.1018035,weidranken met vruchten,cwa_cbl_cat.1018000
+cwa_cbl_cat.1017517,mousserende wijn,cwa_cbl_cat.1017500
+cwa_cbl_cat.1017530,overige alcoholhoudende dranken,cwa_cbl_cat.1017500
+cwa_cbl_cat.1017525,overige aperitieven,cwa_cbl_cat.1017500
+cwa_cbl_cat.1017505,rode wijn,cwa_cbl_cat.1017500
+cwa_cbl_cat.1017515,rosÃ© wijnen,cwa_cbl_cat.1017500
+cwa_cbl_cat.1017520,sherry's,cwa_cbl_cat.1017500
+cwa_cbl_cat.1017510,witte wijn,cwa_cbl_cat.1017500
+cwa_cbl_cat.1016520,"verpakte pinda's, verpakte noten",cwa_cbl_cat.1016500
+cwa_cbl_cat.1016510,zoute biscuits en koekjes,cwa_cbl_cat.1016500
+cwa_cbl_cat.1016205,"snoep, zacht suikerwerk",cwa_cbl_cat.1016200
+cwa_cbl_cat.1015505,jam,cwa_cbl_cat.1015500
+cwa_cbl_cat.1014505,reformproducten,cwa_cbl_cat.1014500
+cwa_cbl_cat.1013511,"soepen droog, niet portie",cwa_cbl_cat.1013500
+cwa_cbl_cat.1013506,"soepen droog, portie",cwa_cbl_cat.1013500
+cwa_cbl_cat.1013515,"soepen nat, niet portie",cwa_cbl_cat.1013500
+cwa_cbl_cat.1013513,"soepen nat, portie",cwa_cbl_cat.1013500
+cwa_cbl_cat.1013530,soepstengels en croutons,cwa_cbl_cat.1013500
+cwa_cbl_cat.1013525,vermicelli,cwa_cbl_cat.1013500
+cwa_cbl_cat.1013060,ijspoeder,cwa_cbl_cat.1013000
+cwa_cbl_cat.1013010,"mixen voor taart, gebak, cake, pizzabodem",cwa_cbl_cat.1013000
+cwa_cbl_cat.1013015,"mix voor pannenkoek, poffertjes, oliebollen",cwa_cbl_cat.1013000
+cwa_cbl_cat.1013045,puddingpoeder,cwa_cbl_cat.1013000
+cwa_cbl_cat.1013050,"puddingsaus, bessensap",cwa_cbl_cat.1013000
+cwa_cbl_cat.1013035,"taartbodems, pizzabodems",cwa_cbl_cat.1013000
+cwa_cbl_cat.1013055,toppings,cwa_cbl_cat.1013000
+cwa_cbl_cat.1013040,vlaaivullingen,cwa_cbl_cat.1013000
+cwa_cbl_cat.1012005,rijst HB,cwa_cbl_cat.1012000
+cwa_cbl_cat.1011515,zoetmiddelen,cwa_cbl_cat.1011500
+cwa_cbl_cat.1011005,"koffiemelk, koffieroom",cwa_cbl_cat.1011000
+cwa_cbl_cat.1020000,kruidenierswaren  (semi-) vers,cwa_cbl_cat.1000000
+cwa_cbl_cat.1022000,rijst en deegwaren semi sers,cwa_cbl_cat.1020000
+cwa_cbl_cat.1022010,deegwaren semi vers,cwa_cbl_cat.1022000
+cwa_cbl_cat.1026500,"zoutjes, onderleggers, notenbarproducten SV",cwa_cbl_cat.1022010
+cwa_cbl_cat.1026525,notenbarproducten SV,cwa_cbl_cat.1026500
+cwa_cbl_cat.1028000,niet-alcoholhoudende dranken SV,cwa_cbl_cat.1026525
+cwa_cbl_cat.1028020,vruchtensappen en -dranken / groentesappen SV,cwa_cbl_cat.1028000
+cwa_cbl_cat.1022005,rijst semi vers,cwa_cbl_cat.1022000
+cwa_cbl_cat.2400000,lectuur,
+cwa_cbl_cat.2410000,houdbare lectuur,cwa_cbl_cat.2400000
+cwa_cbl_cat.2410500,dagbladen,cwa_cbl_cat.2410000
+cwa_cbl_cat.2410505,dagbladen,cwa_cbl_cat.2410500
+cwa_cbl_cat.2411000,"tijdschriften, opiniebladen",cwa_cbl_cat.2410505
+cwa_cbl_cat.2411040,eenmalige uitgaven,cwa_cbl_cat.2411000
+cwa_cbl_cat.2411500,"boeken, pockets",cwa_cbl_cat.2411040
+cwa_cbl_cat.2411505,"boeken, pockets",cwa_cbl_cat.2411500
+cwa_cbl_cat.2411015,familie- roddelbladen,cwa_cbl_cat.2411000
+cwa_cbl_cat.2411010,mannenbladen,cwa_cbl_cat.2411000
+cwa_cbl_cat.2411035,opinieweekbladen,cwa_cbl_cat.2411000
+cwa_cbl_cat.2411030,puzzelbladen,cwa_cbl_cat.2411000
+cwa_cbl_cat.2411020,rtv-bladen,cwa_cbl_cat.2411000
+cwa_cbl_cat.2411025,speciale interestbladen,cwa_cbl_cat.2411000
+cwa_cbl_cat.2411005,vrouwenbladen,cwa_cbl_cat.2411000
+cwa_cbl_cat.1800000,maaltijden,
+cwa_cbl_cat.1830000,diepvries maaltijden,cwa_cbl_cat.1800000
+cwa_cbl_cat.1830500,diepvries maaltijden,cwa_cbl_cat.1830000
+cwa_cbl_cat.1830505,diepvries (maaltijd)soepen,cwa_cbl_cat.1830500
+cwa_cbl_cat.1830510,k&k diepvriesmenu's,cwa_cbl_cat.1830500
+cwa_cbl_cat.1830520,maaltijdcomponenten,cwa_cbl_cat.1830500
+cwa_cbl_cat.1830515,pizza's,cwa_cbl_cat.1830500
+cwa_cbl_cat.1830525,traiteurachtige producten,cwa_cbl_cat.1830500
+cwa_cbl_cat.1810000,houdbare maaltijden,cwa_cbl_cat.1800000
+cwa_cbl_cat.1810500,houdbare maaltijden,cwa_cbl_cat.1810000
+cwa_cbl_cat.1810515,binnenlandse maaltijden,cwa_cbl_cat.1810500
+cwa_cbl_cat.1810510,buitenlandse maaltijden,cwa_cbl_cat.1810500
+cwa_cbl_cat.1810520,maaltijdcomponenten,cwa_cbl_cat.1810500
+cwa_cbl_cat.1820000,verse maaltijden,cwa_cbl_cat.1800000
+cwa_cbl_cat.1820500,verse lunchproducten,cwa_cbl_cat.1820000
+cwa_cbl_cat.1820505,belegd broodje/sandwich,cwa_cbl_cat.1820500
+cwa_cbl_cat.1821000,vers dinerproducten,cwa_cbl_cat.1820505
+cwa_cbl_cat.1821005,binnenlandse maaltijden,cwa_cbl_cat.1821000
+cwa_cbl_cat.1821010,buitenlandse maaltijden,cwa_cbl_cat.1821000
+cwa_cbl_cat.1821025,maaltijdcomponenten / traiteurachtige producten,cwa_cbl_cat.1821000
+cwa_cbl_cat.1821015,(maaltijd)soepen,cwa_cbl_cat.1821000
+cwa_cbl_cat.1821020,pizza,cwa_cbl_cat.1821000
+cwa_cbl_cat.2800000,overig assortiment,
+cwa_cbl_cat.2810000,houdbaar overig assortiment,cwa_cbl_cat.2800000
+cwa_cbl_cat.2810500,winkelartikelen,cwa_cbl_cat.2810000
+cwa_cbl_cat.2810505,boodschappentassen,cwa_cbl_cat.2810500
+cwa_cbl_cat.2810520,emballage,cwa_cbl_cat.2810500
+cwa_cbl_cat.2811000,textiel,cwa_cbl_cat.2810520
+cwa_cbl_cat.2811010,huishoudtextiel,cwa_cbl_cat.2811000
+cwa_cbl_cat.2811005,"kousen, sokken",cwa_cbl_cat.2811000
+cwa_cbl_cat.2811015,ondergoed,cwa_cbl_cat.2811000
+cwa_cbl_cat.2811020,overige textiel,cwa_cbl_cat.2811000
+cwa_cbl_cat.2811025,schoeisel,cwa_cbl_cat.2811000
+cwa_cbl_cat.2811500,"foto, audio, video",cwa_cbl_cat.2811025
+cwa_cbl_cat.2811510,"beelddragers, geluiddragers",cwa_cbl_cat.2811500
+cwa_cbl_cat.2811515,fotoalbums,cwa_cbl_cat.2811500
+cwa_cbl_cat.2812500,diensten en services,cwa_cbl_cat.2811515
+cwa_cbl_cat.2812515,boodschappenbezorgservice,cwa_cbl_cat.2812500
+cwa_cbl_cat.2812525,foto-ontwikkel en afdruk services,cwa_cbl_cat.2812500
+cwa_cbl_cat.2812505,kledingservices,cwa_cbl_cat.2812500
+cwa_cbl_cat.2812530,kopieer- en faxservice,cwa_cbl_cat.2812500
+cwa_cbl_cat.2812535,overige services,cwa_cbl_cat.2812500
+cwa_cbl_cat.2813000,overig huishoudelijk assortiment,cwa_cbl_cat.2812535
+cwa_cbl_cat.2813025,"glas, porcelein, aardewerk",cwa_cbl_cat.2813000
+cwa_cbl_cat.2815000,voedingsgebonden OTC,cwa_cbl_cat.2813025
+cwa_cbl_cat.2815005,afslankproducten,cwa_cbl_cat.2815000
+cwa_cbl_cat.2815010,"vitaminen, mineralen, voedingssupplementen",cwa_cbl_cat.2815000
+cwa_cbl_cat.2815500,"artikelen tegen aandoeningen,  preparaten",cwa_cbl_cat.2815010
+cwa_cbl_cat.2815535,"blaaspreparaten, geslachtpreparaten",cwa_cbl_cat.2815500
+cwa_cbl_cat.2815540,bloedsomloop preparaten,cwa_cbl_cat.2815500
+cwa_cbl_cat.2815520,grieppreparaten,cwa_cbl_cat.2815500
+cwa_cbl_cat.2815515,"hoestpreparaten, keelpreparaten",cwa_cbl_cat.2815500
+cwa_cbl_cat.2815550,huidverzorging,cwa_cbl_cat.2815500
+cwa_cbl_cat.2815530,oogverzorging,cwa_cbl_cat.2815500
+cwa_cbl_cat.2815531,oorverzorging,cwa_cbl_cat.2815500
+cwa_cbl_cat.2815505,pijnstillende middelen,cwa_cbl_cat.2815500
+cwa_cbl_cat.2815555,"spierverzorging, gewrichtsverzorging",cwa_cbl_cat.2815500
+cwa_cbl_cat.2816000,gedragsbeinvloedende artikelen,cwa_cbl_cat.2815555
+cwa_cbl_cat.2816005,"kalmerend, rustgevend",cwa_cbl_cat.2816000
+cwa_cbl_cat.2816010,middelen tegen reisziekte,cwa_cbl_cat.2816000
+cwa_cbl_cat.2816015,overige habituele aandoeningen,cwa_cbl_cat.2816000
+cwa_cbl_cat.2816500,"testen, diagnostische producten, meetapparatuur",cwa_cbl_cat.2816015
+cwa_cbl_cat.2816510,overige diagnostische testen,cwa_cbl_cat.2816500
+cwa_cbl_cat.2819500,overig assortiment,cwa_cbl_cat.2816510
+cwa_cbl_cat.2819575,apparaten elektrisch / elektronisch,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819505,bijoux,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819580,camping,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819565,decoratie non food,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819535,doe het zelf,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819510,"fiets, auto",cwa_cbl_cat.2819500
+cwa_cbl_cat.2819515,gereedschappen,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819525,haardblokken,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819560,kookboeken,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819585,naaigaren en naaigerei,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819590,optiek,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819599,overige assortiment,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819545,"schoenonderhoudsartikelen, veters",cwa_cbl_cat.2819500
+cwa_cbl_cat.2819550,speelgoed,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819570,"tassen, koffers",cwa_cbl_cat.2819500
+cwa_cbl_cat.2819555,tuinartikelen,cwa_cbl_cat.2819500
+cwa_cbl_cat.2819540,verf en accessoires,cwa_cbl_cat.2819500
+cwa_cbl_cat.2816507,ovulatietest,cwa_cbl_cat.2816500
+cwa_cbl_cat.2816508,thermometers,cwa_cbl_cat.2816500
+cwa_cbl_cat.2816505,zwangerschapstesten,cwa_cbl_cat.2816500
+cwa_cbl_cat.2815525,spijsverteringspreparaten,cwa_cbl_cat.2815500
+cwa_cbl_cat.2815510,verkoudheidspreparaten,cwa_cbl_cat.2815500
+cwa_cbl_cat.2813010,groothuishoudelijk plastic,cwa_cbl_cat.2813000
+cwa_cbl_cat.2813020,keukenhulpjes,cwa_cbl_cat.2813000
+cwa_cbl_cat.2813005,klein huishoudelijk plastic,cwa_cbl_cat.2813000
+cwa_cbl_cat.2813015,"potten, pannen, bakvormen",cwa_cbl_cat.2813000
+cwa_cbl_cat.2812520,PTT-post service,cwa_cbl_cat.2812500
+cwa_cbl_cat.2812510,schoenreparatie,cwa_cbl_cat.2812500
+cwa_cbl_cat.2811505,foto materialen,cwa_cbl_cat.2811500
+cwa_cbl_cat.2810510,folders en brochures,cwa_cbl_cat.2810500
+cwa_cbl_cat.2810515,waardebonnen,cwa_cbl_cat.2810500
+cwa_cbl_cat.2000000,rookwaren,
+cwa_cbl_cat.2010000,houdbare rookwaren,cwa_cbl_cat.2000000
+cwa_cbl_cat.2010500,tabaksproducten,cwa_cbl_cat.2010000
+cwa_cbl_cat.2010520,pijptabak,cwa_cbl_cat.2010500
+cwa_cbl_cat.2011000,hulpmiddelen,cwa_cbl_cat.2010520
+cwa_cbl_cat.2011015,aanstekers,cwa_cbl_cat.2011000
+cwa_cbl_cat.2011010,hulzen/filters,cwa_cbl_cat.2011000
+cwa_cbl_cat.2011005,vloei,cwa_cbl_cat.2011000
+cwa_cbl_cat.2010515,shag,cwa_cbl_cat.2010500
+cwa_cbl_cat.2010510,sigaren,cwa_cbl_cat.2010500
+cwa_cbl_cat.2010505,sigaretten,cwa_cbl_cat.2010500
+cwa_cbl_cat.2200000,schoonmaak en onderhoudsartikelen,
+cwa_cbl_cat.2210000,houdbare schoonmaak en onderhoudsartikelen,cwa_cbl_cat.2200000
+cwa_cbl_cat.2210500,was- en reinigingsmiddelen,cwa_cbl_cat.2210000
+cwa_cbl_cat.2210530,afwas-/vaatwasmiddelen,cwa_cbl_cat.2210500
+cwa_cbl_cat.2210510,"bont-, wol-, fijn-, en handwasmiddelen",cwa_cbl_cat.2210500
+cwa_cbl_cat.2210535,"generieke reinigers, schuurmiddel",cwa_cbl_cat.2210500
+cwa_cbl_cat.2210550,luchtverfrissers,cwa_cbl_cat.2210500
+cwa_cbl_cat.2211000,poetsmiddelen,cwa_cbl_cat.2210550
+cwa_cbl_cat.2211005,meubelreiniging/onderhoudsmiddelen,cwa_cbl_cat.2211000
+cwa_cbl_cat.2211020,schoenpoetsmiddelen,cwa_cbl_cat.2211000
+cwa_cbl_cat.2211015,vloerreiniging/onderhoud,cwa_cbl_cat.2211000
+cwa_cbl_cat.2211010,"zilverpoets, koperpoets",cwa_cbl_cat.2211000
+cwa_cbl_cat.2210525,overig wasmiddelen,cwa_cbl_cat.2210500
+cwa_cbl_cat.2210540,specialistische reinigers,cwa_cbl_cat.2210500
+cwa_cbl_cat.2210545,toiletreinigers,cwa_cbl_cat.2210500
+cwa_cbl_cat.2210515,voorwasmiddelen,cwa_cbl_cat.2210500
+cwa_cbl_cat.2210520,wasverzachters,cwa_cbl_cat.2210500
+cwa_cbl_cat.2210505,witwasmiddelen,cwa_cbl_cat.2210500
+cwa_cbl_cat.2900000,sterk alcoholische dranken,
+cwa_cbl_cat.2910000,houdbare sterk alcoholische dranken,cwa_cbl_cat.2900000
+cwa_cbl_cat.2910500,sterk alcoholische dranken,cwa_cbl_cat.2910000
+cwa_cbl_cat.2910560,anijsdranken,cwa_cbl_cat.2910500
+cwa_cbl_cat.2910520,Berenburg,cwa_cbl_cat.2910500
+cwa_cbl_cat.2910515,brandewijn,cwa_cbl_cat.2910500
+cwa_cbl_cat.2910535,cognac,cwa_cbl_cat.2910500
+cwa_cbl_cat.2910555,creamdranken,cwa_cbl_cat.2910500
+cwa_cbl_cat.2910545,gin,cwa_cbl_cat.2910500
+cwa_cbl_cat.2910505,jenever,cwa_cbl_cat.2910500
+cwa_cbl_cat.2910525,likeuren,cwa_cbl_cat.2910500
+cwa_cbl_cat.2910565,overige specialiteiten,cwa_cbl_cat.2910500
+cwa_cbl_cat.2910540,rum,cwa_cbl_cat.2910500
+cwa_cbl_cat.2910510,vieux,cwa_cbl_cat.2910500
+cwa_cbl_cat.2910530,whisky,cwa_cbl_cat.2910500
+cwa_cbl_cat.4000000,winkelmateriaal,cwa_cbl_cat.2910500
+cwa_cbl_cat.4200010,bonrollen,cwa_cbl_cat.4000000
+cwa_cbl_cat.4200025,diverse,cwa_cbl_cat.4000000
+cwa_cbl_cat.4300015,diverse,cwa_cbl_cat.4000000
+cwa_cbl_cat.4200005,etiketten,cwa_cbl_cat.4000000
+cwa_cbl_cat.4000020,folie zakken,cwa_cbl_cat.4000000
+cwa_cbl_cat.4000025,gecombineerde zakken,cwa_cbl_cat.4000000
+cwa_cbl_cat.4300010,handdoekendispenser,cwa_cbl_cat.4000000
+cwa_cbl_cat.4200020,inktlinten,cwa_cbl_cat.4000000
+cwa_cbl_cat.4100030,kaarten,cwa_cbl_cat.4000000
+cwa_cbl_cat.4200000,"kassabenodigdheden, prijsbenodigdheden",cwa_cbl_cat.4000000
+cwa_cbl_cat.4100035,kleding,cwa_cbl_cat.4000000
+cwa_cbl_cat.4100045,overig styling materiaal,cwa_cbl_cat.4000000
+cwa_cbl_cat.4000010,papieren zakken,cwa_cbl_cat.4000000
+cwa_cbl_cat.4000015,plastic zakken,cwa_cbl_cat.4000000
+cwa_cbl_cat.4300005,rolhouder,cwa_cbl_cat.4000000
+cwa_cbl_cat.4300000,schoon- en hygieneartikelen,cwa_cbl_cat.4000000
+cwa_cbl_cat.4000005,schuimschalen,cwa_cbl_cat.4000000
+cwa_cbl_cat.4100000,stylingmateriaal,cwa_cbl_cat.4000000
+cwa_cbl_cat.4200015,toner,cwa_cbl_cat.4000000
+cwa_cbl_cat.4100040,vlaggenstokken,cwa_cbl_cat.4000000
+cwa_cbl_cat.2910550,wodka,cwa_cbl_cat.2910500
+cwa_cbl_cat.1600000,"vis, schaal- en schelpdieren",
+cwa_cbl_cat.1630000,"diepvries vis, schaal- en schelpdieren",cwa_cbl_cat.1600000
+cwa_cbl_cat.1630500,diepvries vis,cwa_cbl_cat.1630000
+cwa_cbl_cat.1630515,diepvries maatjesharng,cwa_cbl_cat.1630500
+cwa_cbl_cat.1631000,diepvries schaal- en schelpdieren,cwa_cbl_cat.1630515
+cwa_cbl_cat.1631005,schaal en schelpdieren,cwa_cbl_cat.1631000
+cwa_cbl_cat.1630510,gecoate vis,cwa_cbl_cat.1630500
+cwa_cbl_cat.1630505,vis naturel / toebereid,cwa_cbl_cat.1630500
+cwa_cbl_cat.1610000,"houdbare vis, schaal- en schelpdieren",cwa_cbl_cat.1600000
+cwa_cbl_cat.1610500,houdbare visproducten,cwa_cbl_cat.1610000
+cwa_cbl_cat.1610510,visproducten in tube,cwa_cbl_cat.1610500
+cwa_cbl_cat.1610505,"vis, schaal- en schelpdieren in blik",cwa_cbl_cat.1610500
+cwa_cbl_cat.1610515,"vis, schaal- en schelpdieren in glas",cwa_cbl_cat.1610500
+cwa_cbl_cat.1620000,(semi)verse vis,cwa_cbl_cat.1600000
+cwa_cbl_cat.1620500,verse vis,cwa_cbl_cat.1620000
+cwa_cbl_cat.1620510,gebakken / gefrituurde vis,cwa_cbl_cat.1620500
+cwa_cbl_cat.1620515,maatjesharing,cwa_cbl_cat.1620500
+cwa_cbl_cat.1621000,schaal- en schelpdieren,cwa_cbl_cat.1620515
+cwa_cbl_cat.1621005,schaal- en schelpdieren,cwa_cbl_cat.1621000
+cwa_cbl_cat.1621500,verpakte vis,cwa_cbl_cat.1621005
+cwa_cbl_cat.1621515,haring in glas of emmer,cwa_cbl_cat.1621500
+cwa_cbl_cat.1622000,verpakte schaal- en schelpdieren,cwa_cbl_cat.1621515
+cwa_cbl_cat.1622005,verpakte schaal- en schelpdieren,cwa_cbl_cat.1622000
+cwa_cbl_cat.1621510,overige vis in glas,cwa_cbl_cat.1621500
+cwa_cbl_cat.1621505,verpakte vis niet in glas,cwa_cbl_cat.1621500
+cwa_cbl_cat.1620505,"verse vis, onbewerkt, gefileerd, gerookt, gedroogd",cwa_cbl_cat.1620500
+cwa_cbl_cat.1500000,vleeswaren en salades,
+cwa_cbl_cat.1520000,(semi-) verse vleeswaren en salades,cwa_cbl_cat.1500000
+cwa_cbl_cat.1520500,snijverse vleeswaren,cwa_cbl_cat.1520000
+cwa_cbl_cat.1520535,droge en gekookte worst snijvers,cwa_cbl_cat.1520500
+cwa_cbl_cat.1520515,ham snijvers,cwa_cbl_cat.1520500
+cwa_cbl_cat.1520530,"kipproducten snijvers, kalkoenproducten snijvers",cwa_cbl_cat.1520500
+cwa_cbl_cat.1520505,leverproducten snijvers,cwa_cbl_cat.1520500
+cwa_cbl_cat.1520510,pate's snijvers,cwa_cbl_cat.1520500
+cwa_cbl_cat.1520525,"ribsoort snijvers, speksoort snijvers",cwa_cbl_cat.1520500
+cwa_cbl_cat.1520520,rookvlees en rosbief snijvers,cwa_cbl_cat.1520500
+cwa_cbl_cat.1520540,vegetarische vleeswaren snijvers,cwa_cbl_cat.1520500
+cwa_cbl_cat.1521000,verpakte gesneden vleeswaren,cwa_cbl_cat.1520540
+cwa_cbl_cat.1521035,verpakte droge en gekookte worst,cwa_cbl_cat.1521000
+cwa_cbl_cat.1521015,verpakte ham,cwa_cbl_cat.1521000
+cwa_cbl_cat.1521030,verpakte kipproducten en kalkoenproducten,cwa_cbl_cat.1521000
+cwa_cbl_cat.1521005,verpakte leverproducten,cwa_cbl_cat.1521000
+cwa_cbl_cat.1521025,verpakte ribsoorten en speksoorten,cwa_cbl_cat.1521000
+cwa_cbl_cat.1521020,verpakte rookvlees/rosbief,cwa_cbl_cat.1521000
+cwa_cbl_cat.1521040,verpakte vegetarische vleeswaren ,cwa_cbl_cat.1521000
+cwa_cbl_cat.1521500,stuks artikelen,cwa_cbl_cat.1521040
+cwa_cbl_cat.1521525,borrelhapjes,cwa_cbl_cat.1521500
+cwa_cbl_cat.1521515,droge en gekookte worst,cwa_cbl_cat.1521500
+cwa_cbl_cat.1521530,filet americain,cwa_cbl_cat.1521500
+cwa_cbl_cat.1521505,leverworst,cwa_cbl_cat.1521500
+cwa_cbl_cat.1521535,pate,cwa_cbl_cat.1521500
+cwa_cbl_cat.1522000,salades en sauzen,cwa_cbl_cat.1521535
+cwa_cbl_cat.1522015,sauzen los,cwa_cbl_cat.1522000
+cwa_cbl_cat.1522020,sauzen verpakt,cwa_cbl_cat.1522000
+cwa_cbl_cat.1522005,schepsalades los,cwa_cbl_cat.1522000
+cwa_cbl_cat.1522010,verpakte salades,cwa_cbl_cat.1522000
+cwa_cbl_cat.1521510,theeworst,cwa_cbl_cat.1521500
+cwa_cbl_cat.1521520,zure zult,cwa_cbl_cat.1521500
+cwa_cbl_cat.1510000,vleeswarenconserven,cwa_cbl_cat.1500000
+cwa_cbl_cat.1510500,vleeswarenconserven,cwa_cbl_cat.1510000
+cwa_cbl_cat.1510505,vleeswarenconserven,cwa_cbl_cat.1510500
+cwa_cbl_cat.1400000,"vlees, wild en gevogelte",
+cwa_cbl_cat.1430000,"diepvries vlees, wild en gevogelte",cwa_cbl_cat.1400000
+cwa_cbl_cat.1430500,"diepvries vlees, wild en gevogelte",cwa_cbl_cat.1430000
+cwa_cbl_cat.1430505,kip en ander gevogelte,cwa_cbl_cat.1430500
+cwa_cbl_cat.1430520,vegetarische vleesvervangers,cwa_cbl_cat.1430500
+cwa_cbl_cat.1431000,vleessnacks,cwa_cbl_cat.1430520
+cwa_cbl_cat.1431030,diepvries overige snacks / specialiteiten,cwa_cbl_cat.1431000
+cwa_cbl_cat.1431025,gevogelte snacks,cwa_cbl_cat.1431000
+cwa_cbl_cat.1431015,"hamburgers, frikadellen",cwa_cbl_cat.1431000
+cwa_cbl_cat.1431020,"kroketten, bitterballen",cwa_cbl_cat.1431000
+cwa_cbl_cat.1431005,sateh,cwa_cbl_cat.1431000
+cwa_cbl_cat.1430515,vlees / toebereid vlees,cwa_cbl_cat.1430500
+cwa_cbl_cat.1430510,wild,cwa_cbl_cat.1430500
+cwa_cbl_cat.1410000,"houdbaar vlees, wild en gevogelte",cwa_cbl_cat.1400000
+cwa_cbl_cat.1410500,vleesconserven,cwa_cbl_cat.1410000
+cwa_cbl_cat.1410520,rookworst verpakt,cwa_cbl_cat.1410500
+cwa_cbl_cat.1410525,vacuum kip,cwa_cbl_cat.1410500
+cwa_cbl_cat.1410530,vegetarische vleesvervangers,cwa_cbl_cat.1410500
+cwa_cbl_cat.1410510,vleesconserven blik,cwa_cbl_cat.1410500
+cwa_cbl_cat.1410505,vleesconserven glas,cwa_cbl_cat.1410500
+cwa_cbl_cat.1410515,vlees in folie/plastic pakken,cwa_cbl_cat.1410500
+cwa_cbl_cat.1420000,vers vlees,cwa_cbl_cat.1400000
+cwa_cbl_cat.1420500,vers vlees,cwa_cbl_cat.1420000
+cwa_cbl_cat.1420535,bgf-pakketten,cwa_cbl_cat.1420500
+cwa_cbl_cat.1420530,gedraaide vleesproducten,cwa_cbl_cat.1420500
+cwa_cbl_cat.1420520,kalfsvlees,cwa_cbl_cat.1420500
+cwa_cbl_cat.1420525,"lamsvlees, schapenvlees",cwa_cbl_cat.1420500
+cwa_cbl_cat.1420540,overig panklaar vlees,cwa_cbl_cat.1420500
+cwa_cbl_cat.1420515,paardenvlees,cwa_cbl_cat.1420500
+cwa_cbl_cat.1420510,rundvlees,cwa_cbl_cat.1420500
+cwa_cbl_cat.1420511,rundvlees panklaar,cwa_cbl_cat.1420500
+cwa_cbl_cat.1420505,varkensvlees,cwa_cbl_cat.1420500
+cwa_cbl_cat.1420506,varkensvlees panklaar,cwa_cbl_cat.1420500
+cwa_cbl_cat.1420550,vegetarische vleesvervangers,cwa_cbl_cat.1420500
+cwa_cbl_cat.1420551,vegetarische vleesvervangers panklaar,cwa_cbl_cat.1420500
+cwa_cbl_cat.1421000,vers gevogelte,cwa_cbl_cat.1420551
+cwa_cbl_cat.1421010,kalkoen,cwa_cbl_cat.1421000
+cwa_cbl_cat.1421011,kalkoen panklaar,cwa_cbl_cat.1421000
+cwa_cbl_cat.1421005,kip,cwa_cbl_cat.1421000
+cwa_cbl_cat.1421006,kip panklaar,cwa_cbl_cat.1421000
+cwa_cbl_cat.1421015,overig gevogelte,cwa_cbl_cat.1421000
+cwa_cbl_cat.1421020,overig panklaar gevogelte,cwa_cbl_cat.1421000
+cwa_cbl_cat.1421500,vers wild,cwa_cbl_cat.1421020
+cwa_cbl_cat.1421505,"haas,konijn",cwa_cbl_cat.1421500
+cwa_cbl_cat.1421510,overig wild,cwa_cbl_cat.1421500
+cwa_cbl_cat.1420545,verse  rookworst,cwa_cbl_cat.1420500
+cwa_cbl_cat.1100000,zuivel en eieren,
+cwa_cbl_cat.1130000,diepvries zuivel en eieren,cwa_cbl_cat.1100000
+cwa_cbl_cat.1130500,diepvries desserts en sappen,cwa_cbl_cat.1130000
+cwa_cbl_cat.1130510,diepvries geconcentreerde vruchten/groentesappen,cwa_cbl_cat.1130500
+cwa_cbl_cat.1131000,ijs,cwa_cbl_cat.1130510
+cwa_cbl_cat.1131010,"handijs, portieijs, ijssnacks",cwa_cbl_cat.1131000
+cwa_cbl_cat.1131020,ijstaarten e.d.,cwa_cbl_cat.1131000
+cwa_cbl_cat.1131005,schepijs in bakken,cwa_cbl_cat.1131000
+cwa_cbl_cat.1130505,"diepvries pudding, desserts",cwa_cbl_cat.1130500
+cwa_cbl_cat.1110000,houdbare zuivel en eieren,cwa_cbl_cat.1100000
+cwa_cbl_cat.1110500,houdbare melk,cwa_cbl_cat.1110000
+cwa_cbl_cat.1110505,houdbare melk,cwa_cbl_cat.1110500
+cwa_cbl_cat.1111000,overige houdbare zuivel,cwa_cbl_cat.1110505
+cwa_cbl_cat.1111030,chocoladedranken,cwa_cbl_cat.1111000
+cwa_cbl_cat.1111005,houdbare desserts,cwa_cbl_cat.1111000
+cwa_cbl_cat.1111010,houdbare roomproducten,cwa_cbl_cat.1111000
+cwa_cbl_cat.1111015,houdbare zuiveldrinks,cwa_cbl_cat.1111000
+cwa_cbl_cat.1111025,soya drinks/desserts,cwa_cbl_cat.1111000
+cwa_cbl_cat.1111020,watergruwel,cwa_cbl_cat.1111000
+cwa_cbl_cat.1120000,(semi-) vers zuivel en eieren,cwa_cbl_cat.1100000
+cwa_cbl_cat.1120500,eieren,cwa_cbl_cat.1120000
+cwa_cbl_cat.1120505,eieren,cwa_cbl_cat.1120500
+cwa_cbl_cat.1121000,dagverse melk,cwa_cbl_cat.1120505
+cwa_cbl_cat.1121006,dagverse karnemelk,cwa_cbl_cat.1121000
+cwa_cbl_cat.1121010,dagverse (karne-)melkdranken,cwa_cbl_cat.1121000
+cwa_cbl_cat.1121500,overige dagverse zuivel bulk,cwa_cbl_cat.1121010
+cwa_cbl_cat.1121510,homogene vla,cwa_cbl_cat.1121500
+cwa_cbl_cat.1121515,kwark naturel,cwa_cbl_cat.1121500
+cwa_cbl_cat.1121520,pappen,cwa_cbl_cat.1121500
+cwa_cbl_cat.1122000,dagverse zuivelspecialiteiten,cwa_cbl_cat.1121520
+cwa_cbl_cat.1122015,kwark met toevoegingen,cwa_cbl_cat.1122000
+cwa_cbl_cat.1122025,luxe toetjes / specialiteiten,cwa_cbl_cat.1122000
+cwa_cbl_cat.1122020,pudding,cwa_cbl_cat.1122000
+cwa_cbl_cat.1122030,"slagroom, zure room, creme fraiche",cwa_cbl_cat.1122000
+cwa_cbl_cat.1122010,vla met toevoegingen,cwa_cbl_cat.1122000
+cwa_cbl_cat.1122005,yoghurt met toevoegingen,cwa_cbl_cat.1122000
+cwa_cbl_cat.1122035,zuiveldranken,cwa_cbl_cat.1122000
+cwa_cbl_cat.1122500,"geelvetten, witvetten",cwa_cbl_cat.1122035
+cwa_cbl_cat.1122525,"bakproducten, braadproducten",cwa_cbl_cat.1122500
+cwa_cbl_cat.1122505,boter,cwa_cbl_cat.1122500
+cwa_cbl_cat.1122515,botermelange,cwa_cbl_cat.1122500
+cwa_cbl_cat.1122535,frituurvet,cwa_cbl_cat.1122500
+cwa_cbl_cat.1122520,halvarine,cwa_cbl_cat.1122500
+cwa_cbl_cat.1122510,margarine,cwa_cbl_cat.1122500
+cwa_cbl_cat.1121505,yoghurt naturel (homogeen),cwa_cbl_cat.1121500
+cwa_cbl_cat.1121005,dagverse melk ,cwa_cbl_cat.1121000
