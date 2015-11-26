@@ -21,6 +21,7 @@
     'depends': ['point_of_sale'],
     'data': [
         'views/res_company.xml',
+        'views/templates.xml',
     ],
     'qweb': [
         'static/src/xml/receipt.xml',
