@@ -18,6 +18,6 @@ class Company(models.Model):
     _inherit = 'res.company'
 
     pos_logo = fields.Binary(
-        string='POS receipt logo',
+        string='POS Receipt Logo',
         help=('Add an alternate logo to print on receipts printed from the '
-              'POS printer'))
+              'POS printer. The optimum size of the image is 300px by 300px.'))
