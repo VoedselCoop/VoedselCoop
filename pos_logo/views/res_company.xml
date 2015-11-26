@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+
+        <record id="view_company_form" model="ir.ui.view">
+            <field name="name">Add pos logo to company form</field>
+            <field name="model">res.company</field>
+            <field name="inherit_id" ref="base.view_company_form" />
+            <field name="arch" type="xml">
+                <page string="Report Configuration" position="inside">
+                    <group string="POS Receipt Logo">
+                        <field nolabel="1" name="pos_logo" widget="image" />
+                    </group>
+                </page>
+            </field>
+        </record>
+
+    </data>
+</openerp>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+    <!-- Replace company logo by the pos logo on the company -->
+    <!-- TODO: logo is not printed when there is no company logo -->
+    <t t-extend="XmlReceipt">
+        <t t-jquery="img[t-att-src='receipt.company.logo']" t-operation="replace">
+            <img t-att-src='receipt.company.pos_logo' />
+        </t>
+    </t>
+</templates>
