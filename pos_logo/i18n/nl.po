@@ -6,19 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-26 20:51+0000\n"
-"PO-Revision-Date: 2015-11-26 20:51+0000\n"
+"POT-Creation-Date: 2015-11-26 20:56+0000\n"
+"PO-Revision-Date: 2015-11-26 20:56+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
-
-#. module: pos_logo
-#: help:res.company,pos_logo:0
-msgid "Add an alternate logo to print on receipts printed from the POS printer"
-msgstr "Gebruik een alternatief logo voor gebruik op kassabonnen die uit de kassaprinter komen
 
 #. module: pos_logo
 #: model:ir.model,name:pos_logo.model_res_company
@@ -35,4 +30,9 @@ msgstr "Logo kassabon"
 #: view:res.company:pos_logo.view_company_form
 msgid "Report Configuration"
 msgstr "Rapportinstellingen"
+
+#. module: pos_logo
+#: help:res.company,pos_logo:0
+msgid "Use an alternate logo on receipts printed from the POS printer. The optimum size of the image is 300px by 300px."
+msgstr "Stel een alternatief logo in voor kassabonnen die uit de kassaprinter komen. De optimale grootte van de afbeelding is 300px bij 300px."
 
