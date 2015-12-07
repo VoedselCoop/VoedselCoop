@@ -34,7 +34,8 @@ quanity is modified, the deposit line is kept in sync and vice versa.
 """,
     'author': "Open2bizz",
     'website': "http://www.open2bizz.nl",
-    'depends': ['point_of_sale', ],
+    # Depend on pos_pricelist because their addProduct() would overwrite ours
+    'depends': ['pos_pricelist', ],
     'data': [
         'views/pos_deposit.xml',
         'product/product_view.xml'
