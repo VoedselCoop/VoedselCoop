@@ -10,7 +10,8 @@
 		    <field name="sale_ok" position="before">
 		        <field name="use_deposit"/>
 		        <label for="use_deposit"/>
-		        <field name="select_deposit"/>
+		        <field name="select_deposit"
+                               attrs="{'invisible': [('use_deposit', '=', False)], 'required': [('use_deposit', '=', True)]}" />
 		    </field>
 		</field>
         </record>
