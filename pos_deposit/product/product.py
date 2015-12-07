@@ -17,12 +17,14 @@
 #    <http://www.gnu.org/licenses/gpl.html>.
 #
 ##############################################################################
-from openerp import fields, models, api, _
+from openerp import fields, models
+
 
 class product_template(models.Model):
     _inherit = "product.template"
 
     use_deposit = fields.Boolean('Use Deposit')
-    select_deposit = fields.Many2one('product.template', 'Select Deposit', domain=['&', 
-                                                                                  ('name', 'like', 'STATIEGELD'),
-                                                                                  ('name', 'not like', 'INNAME')])
+    select_deposit = fields.Many2one(
+        'product.template', 'Select Deposit',
+        domain=[('name', 'like', 'STATIEGELD'),
+                ('name', 'not like', 'INNAME')])

@@ -3,6 +3,9 @@
 #    Copyright (c) 2015 - Open2bizz
 #    Author: Open2bizz
 #
+#    Contributions:
+#    Stefan Rijnhart <stefan@opener.am>
+#
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
 #    the Free Software Foundation, either version 3 of the License, or
@@ -22,19 +25,20 @@
     'version': '1.0',
     'category': 'General',
     'description': """
-This module is used to manage deposit for products in Point of Sale.
+This module is used to manage container deposits for products in Point of Sale.
+
+A checkbox is added to the product form to mark products for coming with such
+a deposit. When checked, a deposit product can be linked to the product. This
+product will be added in the point of sale automatically. If the product
+quanity is modified, the deposit line is kept in sync and vice versa.
 """,
     'author': "Open2bizz",
     'website': "http://www.open2bizz.nl",
-    'depends': ['web', 'point_of_sale', 'base'],
+    'depends': ['point_of_sale', ],
     'data': [
         'views/pos_deposit.xml',
         'product/product_view.xml'
     ],
-    'demo': [],
-    'test': [],
     'qweb': ['static/src/xml/pos.xml'],
     'installable': True,
-    'auto_install': False,
 }
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
