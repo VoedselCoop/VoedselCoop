@@ -21,7 +21,7 @@
 #
 ##############################################################################
 {
-    'name': 'POS Deposit',
+    'name': 'POS Container Deposit',
     'version': '1.0',
     'category': 'General',
     'description': """
