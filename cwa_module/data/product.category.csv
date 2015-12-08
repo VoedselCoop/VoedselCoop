@@ -1,660 +1,614 @@
-id,name,parent_id/id
-cwa_cbl_cat.1300000,"aardappelen, groenten en fruit",
-cwa_cbl_cat.1310000,"aardappelen, groenten en fruit houdbaar",cwa_cbl_cat.1300000
-cwa_cbl_cat.1310500,aardappelproducten,cwa_cbl_cat.1310000
-cwa_cbl_cat.1310505,aardappelpuree,cwa_cbl_cat.1310500
-cwa_cbl_cat.1311000,groenteconserven,cwa_cbl_cat.1310505
-cwa_cbl_cat.1311015,appelmoes,cwa_cbl_cat.1311000
-cwa_cbl_cat.1311010,blikconserven,cwa_cbl_cat.1311000
-cwa_cbl_cat.1311020,gedroogde peulvruchten / groenten,cwa_cbl_cat.1311000
-cwa_cbl_cat.1311005,glasconserven,cwa_cbl_cat.1311000
-cwa_cbl_cat.1311035,olijven houdbaar,cwa_cbl_cat.1311000
-cwa_cbl_cat.1311500,vruchtenconserven,cwa_cbl_cat.1311035
-cwa_cbl_cat.1311510,vruchtenconserven in blik,cwa_cbl_cat.1311500
-cwa_cbl_cat.1311505,vruchtenconserven in glas,cwa_cbl_cat.1311500
-cwa_cbl_cat.1311030,tomaten,cwa_cbl_cat.1311000
-cwa_cbl_cat.1311031,tomatenpuree,cwa_cbl_cat.1311000
-cwa_cbl_cat.1320000,"aardappelen, groenten en fruit (semi) vers",cwa_cbl_cat.1300000
-cwa_cbl_cat.1320500,aardappelen,cwa_cbl_cat.1320000
-cwa_cbl_cat.1320510,geschilde aardappel,cwa_cbl_cat.1320500
-cwa_cbl_cat.1321000,aardappelproducten,cwa_cbl_cat.1320510
-cwa_cbl_cat.1321020,k&k aardappelproducten met toevoegingen,cwa_cbl_cat.1321000
-cwa_cbl_cat.1321500,verse groenten,cwa_cbl_cat.1321020
-cwa_cbl_cat.1321520,bewerkte groenten,cwa_cbl_cat.1321500
-cwa_cbl_cat.1321525,gemengde verse groenten,cwa_cbl_cat.1321500
-cwa_cbl_cat.1321505,groenten onbewerkt,cwa_cbl_cat.1321500
-cwa_cbl_cat.1321510,"komkommer, uien, knoflook, champignons, paprika's",cwa_cbl_cat.1321500
-cwa_cbl_cat.1321535,"olijven, pommodori, pepperoni",cwa_cbl_cat.1321500
-cwa_cbl_cat.1322000,vers fruit,cwa_cbl_cat.1321535
-cwa_cbl_cat.1322025,bessen,cwa_cbl_cat.1322000
-cwa_cbl_cat.1322015,citrusvruchten,cwa_cbl_cat.1322000
-cwa_cbl_cat.1322020,exoten,cwa_cbl_cat.1322000
-cwa_cbl_cat.1322030,fruitmanden,cwa_cbl_cat.1322000
-cwa_cbl_cat.1322005,hard fruit,cwa_cbl_cat.1322000
-cwa_cbl_cat.1322040,k&k vers fruit,cwa_cbl_cat.1322000
-cwa_cbl_cat.1322035,verse noten,cwa_cbl_cat.1322000
-cwa_cbl_cat.1322010,zacht fruit,cwa_cbl_cat.1322000
-cwa_cbl_cat.1321530,"tahoe, tempeh, tofu",cwa_cbl_cat.1321500
-cwa_cbl_cat.1321515,verse kruiden en kruiden op nat,cwa_cbl_cat.1321500
-cwa_cbl_cat.1321010,k&k aardappelproducten naturel,cwa_cbl_cat.1321000
-cwa_cbl_cat.1321005,verse frites,cwa_cbl_cat.1321000
-cwa_cbl_cat.1320505,onbewerkte aardappelen,cwa_cbl_cat.1320500
-cwa_cbl_cat.1330000,"diepvries aardappels, groenten en fruit",cwa_cbl_cat.1300000
-cwa_cbl_cat.1330500,diepvries aardappelproducten,cwa_cbl_cat.1330000
-cwa_cbl_cat.1330505,frites,cwa_cbl_cat.1330500
-cwa_cbl_cat.1330510,overige enkelvoudige aardappelproducten,cwa_cbl_cat.1330500
-cwa_cbl_cat.1331000,groenteproducten,cwa_cbl_cat.1330510
-cwa_cbl_cat.1331005,enkelvoudige en samengestelde groenten,cwa_cbl_cat.1331000
-cwa_cbl_cat.1331020,fruit en vruchtenmelange,cwa_cbl_cat.1331000
-cwa_cbl_cat.1331015,kruiden,cwa_cbl_cat.1331000
-cwa_cbl_cat.1331010,soepgroenten,cwa_cbl_cat.1331000
-cwa_cbl_cat.2600000,bloemen en planten,
-cwa_cbl_cat.2620000,bloemen en planten vers,cwa_cbl_cat.2600000
-cwa_cbl_cat.2620500,verse bloemen en planten,cwa_cbl_cat.2620000
-cwa_cbl_cat.2620510,(kamer)planten,cwa_cbl_cat.2620500
-cwa_cbl_cat.2620515,seizoensartikelen,cwa_cbl_cat.2620500
-cwa_cbl_cat.2620505,snijbloemen,cwa_cbl_cat.2620500
-cwa_cbl_cat.2610000,houdbaar bloemen en planten,cwa_cbl_cat.2600000
-cwa_cbl_cat.2610500,bloemen- en plantverzorging,cwa_cbl_cat.2610000
-cwa_cbl_cat.2610505,bloemen- en plantvoeding en verzorging,cwa_cbl_cat.2610500
-cwa_cbl_cat.2610520,potgrond,cwa_cbl_cat.2610500
-cwa_cbl_cat.1700000,brood en gebak,
-cwa_cbl_cat.1730000,diepvries brood en gebak,cwa_cbl_cat.1700000
-cwa_cbl_cat.1730500,diepvries bakkerijproducten,cwa_cbl_cat.1730000
-cwa_cbl_cat.1730505,bladerdeeg,cwa_cbl_cat.1730500
-cwa_cbl_cat.1731000,gebak,cwa_cbl_cat.1730505
-cwa_cbl_cat.1731005,groot gebak,cwa_cbl_cat.1731000
-cwa_cbl_cat.1731010,klein gebak,cwa_cbl_cat.1731000
-cwa_cbl_cat.1710000,houdbaar brood en gebak,cwa_cbl_cat.1700000
-cwa_cbl_cat.1710500,houdbaar brood,cwa_cbl_cat.1710000
-cwa_cbl_cat.1710510,buitenlands/houdbaar  brood,cwa_cbl_cat.1710500
-cwa_cbl_cat.1710515,halffabrikaten,cwa_cbl_cat.1710500
-cwa_cbl_cat.1711000,broodvervangers,cwa_cbl_cat.1710515
-cwa_cbl_cat.1711005,beschuit,cwa_cbl_cat.1711000
-cwa_cbl_cat.1711010,gepofte rijstwafels,cwa_cbl_cat.1711000
-cwa_cbl_cat.1711020,geroosterd brood / crackers groot,cwa_cbl_cat.1711000
-cwa_cbl_cat.1711015,knÃ€ckebrÃ¶d,cwa_cbl_cat.1711000
-cwa_cbl_cat.1711025,ontbijtkoek,cwa_cbl_cat.1711000
-cwa_cbl_cat.1710505,roggebrood,cwa_cbl_cat.1710500
-cwa_cbl_cat.1720000,vers brood en gebak,cwa_cbl_cat.1700000
-cwa_cbl_cat.1720500,groot brood,cwa_cbl_cat.1720000
-cwa_cbl_cat.1720510,bruin brood,cwa_cbl_cat.1720500
-cwa_cbl_cat.1720530,gevuld brood,cwa_cbl_cat.1720500
-cwa_cbl_cat.1721000,klein brood,cwa_cbl_cat.1720530
-cwa_cbl_cat.1721020,klein brood gevuld,cwa_cbl_cat.1721000
-cwa_cbl_cat.1721300,halffabrikaat,cwa_cbl_cat.1721020
-cwa_cbl_cat.1721315,halffabrikaat vers gekoeld ,cwa_cbl_cat.1721300
-cwa_cbl_cat.1721500,snacks,cwa_cbl_cat.1721315
-cwa_cbl_cat.1721515,broodsnacks groot,cwa_cbl_cat.1721500
-cwa_cbl_cat.1722000,stokbrood,cwa_cbl_cat.1721515
-cwa_cbl_cat.1722010,gekoelde halffabrikaten groot,cwa_cbl_cat.1722000
-cwa_cbl_cat.1722500,seizoensbrood,cwa_cbl_cat.1722010
-cwa_cbl_cat.1722505,seizoensbrood,cwa_cbl_cat.1722500
-cwa_cbl_cat.1723000,groot gebak,cwa_cbl_cat.1722505
-cwa_cbl_cat.1723005,taarten en schnittes,cwa_cbl_cat.1723000
-cwa_cbl_cat.1723010,vlaaien,cwa_cbl_cat.1723000
-cwa_cbl_cat.1723500,klein gebak,cwa_cbl_cat.1723010
-cwa_cbl_cat.1723505,klein gebak,cwa_cbl_cat.1723500
-cwa_cbl_cat.1724000,banket,cwa_cbl_cat.1723505
-cwa_cbl_cat.1724005,banket,cwa_cbl_cat.1724000
-cwa_cbl_cat.1722005,stokbrood,cwa_cbl_cat.1722000
-cwa_cbl_cat.1721505,hartige snacks,cwa_cbl_cat.1721500
-cwa_cbl_cat.1721510,zoete snacks,cwa_cbl_cat.1721500
-cwa_cbl_cat.1721015,klein brood volkoren en meergranen,cwa_cbl_cat.1721000
-cwa_cbl_cat.1721010,klein bruinbrood,cwa_cbl_cat.1721000
-cwa_cbl_cat.1721005,klein witbrood,cwa_cbl_cat.1721000
-cwa_cbl_cat.1720520,meergranenbrood,cwa_cbl_cat.1720500
-cwa_cbl_cat.1720515,volkorenbrood,cwa_cbl_cat.1720500
-cwa_cbl_cat.1720505,wit brood,cwa_cbl_cat.1720500
-cwa_cbl_cat.2700000,dierenbenodigdheden,
-cwa_cbl_cat.2710000,houdbare dierenbenodigdheden,cwa_cbl_cat.2700000
-cwa_cbl_cat.2710500,dierenbenodigdheden,cwa_cbl_cat.2710000
-cwa_cbl_cat.2710505,dierenbenodigdheden,cwa_cbl_cat.2710500
-cwa_cbl_cat.2710520,"hooi, stro",cwa_cbl_cat.2710500
-cwa_cbl_cat.2710510,kattenbakvulling,cwa_cbl_cat.2710500
-cwa_cbl_cat.2710515,schelpenzand,cwa_cbl_cat.2710500
-cwa_cbl_cat.1900000,dierenvoeding,
-cwa_cbl_cat.1930000,diepvries dierenvoer,cwa_cbl_cat.1900000
-cwa_cbl_cat.1930500,diepvries dierenvoer,cwa_cbl_cat.1930000
-cwa_cbl_cat.1930505,"orgaanvlees, diepvries",cwa_cbl_cat.1930500
-cwa_cbl_cat.1910000,houdbare dierenvoeding,cwa_cbl_cat.1900000
-cwa_cbl_cat.1910500,hondenvoer,cwa_cbl_cat.1910000
-cwa_cbl_cat.1910505,droog hondenvoer,cwa_cbl_cat.1910500
-cwa_cbl_cat.1910510,nat hondenvoer,cwa_cbl_cat.1910500
-cwa_cbl_cat.1910515,snacks voor honden,cwa_cbl_cat.1910500
-cwa_cbl_cat.1911000,kattenvoer,cwa_cbl_cat.1910515
-cwa_cbl_cat.1911005,droog kattenvoer,cwa_cbl_cat.1911000
-cwa_cbl_cat.1911010,nat kattenvoer,cwa_cbl_cat.1911000
-cwa_cbl_cat.1911015,snacks voor katten,cwa_cbl_cat.1911000
-cwa_cbl_cat.1911500,overig voer,cwa_cbl_cat.1911015
-cwa_cbl_cat.1911510,knaagdiervoer,cwa_cbl_cat.1911500
-cwa_cbl_cat.1911515,visvoer,cwa_cbl_cat.1911500
-cwa_cbl_cat.1911505,vogelvoer,cwa_cbl_cat.1911500
-cwa_cbl_cat.1920000,vers dierenvoer,cwa_cbl_cat.1900000
-cwa_cbl_cat.1920500,vers dierenvoer,cwa_cbl_cat.1920000
-cwa_cbl_cat.1920505,orgaanvlees vers,cwa_cbl_cat.1920500
-cwa_cbl_cat.2100000,drogmetica,
-cwa_cbl_cat.2110000,houdbare drogmetica,cwa_cbl_cat.2100000
-cwa_cbl_cat.2110500,"lichaamsverzorging, medische verzorging",cwa_cbl_cat.2110000
-cwa_cbl_cat.2110535,babyverzorging,cwa_cbl_cat.2110500
-cwa_cbl_cat.2110550,condooms,cwa_cbl_cat.2110500
-cwa_cbl_cat.2111000,periodeverzorging en luiers,cwa_cbl_cat.2110550
-cwa_cbl_cat.2111005,"damesverband, inlegkruisjes, tampons",cwa_cbl_cat.2111000
-cwa_cbl_cat.2111015,incontinentieproducten,cwa_cbl_cat.2111000
-cwa_cbl_cat.2111500,sanitaire papierwaren,cwa_cbl_cat.2111015
-cwa_cbl_cat.2111510,keukenrollen,cwa_cbl_cat.2111500
-cwa_cbl_cat.2112000,zakdoekjes,cwa_cbl_cat.2111510
-cwa_cbl_cat.2112005,"papieren zakdoekjes, tissues",cwa_cbl_cat.2112000
-cwa_cbl_cat.2111505,(vochtig) wc-papier,cwa_cbl_cat.2111500
-cwa_cbl_cat.2111010,weggooiluiers,cwa_cbl_cat.2111000
-cwa_cbl_cat.2110512,dames en herengeuren,cwa_cbl_cat.2110500
-cwa_cbl_cat.2110515,decoratieve cosmetica en toebehoren,cwa_cbl_cat.2110500
-cwa_cbl_cat.2110511,deodorants,cwa_cbl_cat.2110500
-cwa_cbl_cat.2110530,mondverzorging,cwa_cbl_cat.2110500
-cwa_cbl_cat.2110513,ontharingsproducten,cwa_cbl_cat.2110500
-cwa_cbl_cat.2110525,overige haarverzorgings producten,cwa_cbl_cat.2110500
-cwa_cbl_cat.2110540,scheerproducten en toebehoren,cwa_cbl_cat.2110500
-cwa_cbl_cat.2110520,shampoo,cwa_cbl_cat.2110500
-cwa_cbl_cat.2110505,"toiletzeep, badzeep, doucheschuim",cwa_cbl_cat.2110500
-cwa_cbl_cat.2110510,verzorgende cosmetica,cwa_cbl_cat.2110500
-cwa_cbl_cat.2110545,"wondartikelen, inhaler",cwa_cbl_cat.2110500
-cwa_cbl_cat.2500000,huishoudelijke artikelen,
-cwa_cbl_cat.2510000,houdbare huishoudelijke artikelen,cwa_cbl_cat.2500000
-cwa_cbl_cat.2511000,huishoudelijke waren en onderhoudsmateriaal,cwa_cbl_cat.2510000
-cwa_cbl_cat.2511015,"boterhamzakjes, diepvrieszakjes",cwa_cbl_cat.2511000
-cwa_cbl_cat.2511010,huishoudfolie,cwa_cbl_cat.2511000
-cwa_cbl_cat.2511040,insectenverdelgers,cwa_cbl_cat.2511000
-cwa_cbl_cat.2512000,babyartikelen,cwa_cbl_cat.2511040
-cwa_cbl_cat.2512005,"zuigflessen, spenen",cwa_cbl_cat.2512000
-cwa_cbl_cat.2512500,panty's/nylons,cwa_cbl_cat.2512005
-cwa_cbl_cat.2512505,panty's/nylons,cwa_cbl_cat.2512500
-cwa_cbl_cat.2513000,sfeer en verlichting,cwa_cbl_cat.2512505
-cwa_cbl_cat.2513020,"aanmaakblokjes, houtskool",cwa_cbl_cat.2513000
-cwa_cbl_cat.2513010,batterijen,cwa_cbl_cat.2513000
-cwa_cbl_cat.2513005,gloeilampen,cwa_cbl_cat.2513000
-cwa_cbl_cat.2513015,"kaarsen, waxinelichtjes",cwa_cbl_cat.2513000
-cwa_cbl_cat.2513025,lucifers,cwa_cbl_cat.2513000
-cwa_cbl_cat.2511025,koffiefilters,cwa_cbl_cat.2511000
-cwa_cbl_cat.2511035,onderhoudsmaterialen / borstelwerk,cwa_cbl_cat.2511000
-cwa_cbl_cat.2511005,"vuilniszakken, pedaalemmerzakken",cwa_cbl_cat.2511000
-cwa_cbl_cat.2511020,"wasemkapfilters, stofzuigerzakken",cwa_cbl_cat.2511000
-cwa_cbl_cat.2511030,wegwerpartikelen,cwa_cbl_cat.2511000
-cwa_cbl_cat.1200000,kaas,
-cwa_cbl_cat.1220000,kaas (semi-) vers,cwa_cbl_cat.1200000
-cwa_cbl_cat.1220500,Nederlandse kaas uitsnij,cwa_cbl_cat.1220000
-cwa_cbl_cat.1220505,Nederlandse kaas uitsnij,cwa_cbl_cat.1220500
-cwa_cbl_cat.1221000,Nederlandse kaas verpakt,cwa_cbl_cat.1220505
-cwa_cbl_cat.1221020,"Nederlandse kaas, verpakt, gesneden en blokjes",cwa_cbl_cat.1221000
-cwa_cbl_cat.1221500,buitenlandse specialiteiten uitsnij,cwa_cbl_cat.1221020
-cwa_cbl_cat.1221505,buitenlandse specialiteiten uitsnij,cwa_cbl_cat.1221500
-cwa_cbl_cat.1222000,buitenlandse specialiteiten verpakt,cwa_cbl_cat.1221505
-cwa_cbl_cat.1222005,"buitenlandse specialiteiten, verpakt",cwa_cbl_cat.1222000
-cwa_cbl_cat.1222500,overige soorten verpakte kaas,cwa_cbl_cat.1222005
-cwa_cbl_cat.1222505,geraspte kaas verpakt,cwa_cbl_cat.1222500
-cwa_cbl_cat.1222515,smeerkaas / kaasspread/ dippers,cwa_cbl_cat.1222500
-cwa_cbl_cat.1221005,Nederlandse kaas verpakt ongesneden,cwa_cbl_cat.1221000
-cwa_cbl_cat.2300000,kantoorbenodigdheden en wenskaarten,
-cwa_cbl_cat.2310500,kantoorbenodigdheden,cwa_cbl_cat.2300000
-cwa_cbl_cat.2310510,bureau accessoires,cwa_cbl_cat.2310500
-cwa_cbl_cat.2310525,enveloppen,cwa_cbl_cat.2310500
-cwa_cbl_cat.2310530,"kadopapier, feestartikelen, decoraties",cwa_cbl_cat.2310500
-cwa_cbl_cat.2311000,wenskaarten,cwa_cbl_cat.2310530
-cwa_cbl_cat.2311005,wenskaarten,cwa_cbl_cat.2311000
-cwa_cbl_cat.2310520,"schrijfblokken, multo-papier, schriften",cwa_cbl_cat.2310500
-cwa_cbl_cat.2310505,schrijfwaren,cwa_cbl_cat.2310500
-cwa_cbl_cat.1000000,kruidenierswaren,
-cwa_cbl_cat.1010000,houdbare kruidenierswaren,cwa_cbl_cat.1000000
-cwa_cbl_cat.1010500,"koffie, cacao, thee",cwa_cbl_cat.1010000
-cwa_cbl_cat.1010525,anijsblokjes,cwa_cbl_cat.1010500
-cwa_cbl_cat.1010520,cacao,cwa_cbl_cat.1010500
-cwa_cbl_cat.1010505,koffie,cwa_cbl_cat.1010500
-cwa_cbl_cat.1010506,koffiepads,cwa_cbl_cat.1010500
-cwa_cbl_cat.1010515,koffiestroop,cwa_cbl_cat.1010500
-cwa_cbl_cat.1010512,new instant oploskoffie,cwa_cbl_cat.1010500
-cwa_cbl_cat.1010510,oploskoffie,cwa_cbl_cat.1010500
-cwa_cbl_cat.1010530,thee,cwa_cbl_cat.1010500
-cwa_cbl_cat.1011000,"houdbare koffiemelk, houdbare koffieroom",cwa_cbl_cat.1010530
-cwa_cbl_cat.1011010,"koffiecreamer, melkpoeder",cwa_cbl_cat.1011000
-cwa_cbl_cat.1011500,suiker,cwa_cbl_cat.1011010
-cwa_cbl_cat.1011505,kristalsuiker,cwa_cbl_cat.1011500
-cwa_cbl_cat.1011510,overige suiker,cwa_cbl_cat.1011500
-cwa_cbl_cat.1011520,"suikerstroop, schenkstroop",cwa_cbl_cat.1011500
-cwa_cbl_cat.1012000,rijst en deegwaren HB,cwa_cbl_cat.1011520
-cwa_cbl_cat.1012010,deegwaren,cwa_cbl_cat.1012000
-cwa_cbl_cat.1012500,ontbijtproducten,cwa_cbl_cat.1012010
-cwa_cbl_cat.1012510,cornflakes,cwa_cbl_cat.1012500
-cwa_cbl_cat.1012505,geplette graanproducten,cwa_cbl_cat.1012500
-cwa_cbl_cat.1012515,muesli,cwa_cbl_cat.1012500
-cwa_cbl_cat.1013000,bakproducten en dessertingrediÃ«nten,cwa_cbl_cat.1012515
-cwa_cbl_cat.1013025,bindmiddelen,cwa_cbl_cat.1013000
-cwa_cbl_cat.1013005,bloem en toebereide bloem,cwa_cbl_cat.1013000
-cwa_cbl_cat.1013020,broodmixen,cwa_cbl_cat.1013000
-cwa_cbl_cat.1013030,diverse bakbenodigdheden,cwa_cbl_cat.1013000
-cwa_cbl_cat.1013065,"gedroogde vruchten, gedroogde zuidvruchten",cwa_cbl_cat.1013000
-cwa_cbl_cat.1013500,"soepen, bouillons",cwa_cbl_cat.1013065
-cwa_cbl_cat.1013520,bouillons droog,cwa_cbl_cat.1013500
-cwa_cbl_cat.1013522,bouillons nat,cwa_cbl_cat.1013500
-cwa_cbl_cat.1013535,smaakversterkers voor soep,cwa_cbl_cat.1013500
-cwa_cbl_cat.1014000,"sauzen, mixen",cwa_cbl_cat.1013535
-cwa_cbl_cat.1014045,azijn,cwa_cbl_cat.1014000
-cwa_cbl_cat.1014040,olien,cwa_cbl_cat.1014000
-cwa_cbl_cat.1014035,slaversierders (droog en nat),cwa_cbl_cat.1014000
-cwa_cbl_cat.1014025,smaakmakers compleet droog warm en koud,cwa_cbl_cat.1014000
-cwa_cbl_cat.1014030,smaakmakers compleet droog warm en koud overig,cwa_cbl_cat.1014000
-cwa_cbl_cat.1014005,smaakmakers component droog koud,cwa_cbl_cat.1014000
-cwa_cbl_cat.1014010,smaakmakers component droog warm,cwa_cbl_cat.1014000
-cwa_cbl_cat.1014015,smaakmakers component nat koud,cwa_cbl_cat.1014000
-cwa_cbl_cat.1014020,smaakmakers component  nat warm,cwa_cbl_cat.1014000
-cwa_cbl_cat.1014050,zuren,cwa_cbl_cat.1014000
-cwa_cbl_cat.1014500,"reformproducten, dieetproducten",cwa_cbl_cat.1014050
-cwa_cbl_cat.1014510,dieetproducten,cwa_cbl_cat.1014500
-cwa_cbl_cat.1015000,"babyvoeding, kindervoeding",cwa_cbl_cat.1014510
-cwa_cbl_cat.1015010,"formulevoeding, granenvoeding",cwa_cbl_cat.1015000
-cwa_cbl_cat.1015005,"kinderkoek, kinderbiscuit",cwa_cbl_cat.1015000
-cwa_cbl_cat.1015015,"kindermaaltijden, happen nat",cwa_cbl_cat.1015000
-cwa_cbl_cat.1015020,"kindersiropen, dranken",cwa_cbl_cat.1015000
-cwa_cbl_cat.1015500,boterhambeleg,cwa_cbl_cat.1015020
-cwa_cbl_cat.1015510,boterhamsmeersels,cwa_cbl_cat.1015500
-cwa_cbl_cat.1015520,boterhamstrooisels,cwa_cbl_cat.1015500
-cwa_cbl_cat.1015525,cocosbrood,cwa_cbl_cat.1015500
-cwa_cbl_cat.1016000,"koek, koekjes, banketstuksartikelen",cwa_cbl_cat.1015525
-cwa_cbl_cat.1016015,"banket stuksartikelen, cake",cwa_cbl_cat.1016000
-cwa_cbl_cat.1016010,"koekjes, wafels en biscuits",cwa_cbl_cat.1016000
-cwa_cbl_cat.1016020,seizoensartikelen koek(jes),cwa_cbl_cat.1016000
-cwa_cbl_cat.1016025,tussendoor koek,cwa_cbl_cat.1016000
-cwa_cbl_cat.1016100,chocolade en chocoladeproducten,cwa_cbl_cat.1016025
-cwa_cbl_cat.1016115,candybars,cwa_cbl_cat.1016100
-cwa_cbl_cat.1016105,"chocoladeproducten, bonbons, bite sizes",cwa_cbl_cat.1016100
-cwa_cbl_cat.1016110,chocoladerepen en tabletten,cwa_cbl_cat.1016100
-cwa_cbl_cat.1016120,seizoensartikelen chocolade,cwa_cbl_cat.1016100
-cwa_cbl_cat.1016200,snoep en zoetwaren,cwa_cbl_cat.1016120
-cwa_cbl_cat.1016215,"drop, hoestartikelen",cwa_cbl_cat.1016200
-cwa_cbl_cat.1016210,kauwgom,cwa_cbl_cat.1016200
-cwa_cbl_cat.1016220,seizoenartikelen snoep,cwa_cbl_cat.1016200
-cwa_cbl_cat.1016500,"zoutjes, onderleggers, notenbarproducten",cwa_cbl_cat.1016220
-cwa_cbl_cat.1016505,chips,cwa_cbl_cat.1016500
-cwa_cbl_cat.1016515,cocktailsnacks,cwa_cbl_cat.1016500
-cwa_cbl_cat.1016530,"melba toast, toastjes, crackers, cups",cwa_cbl_cat.1016500
-cwa_cbl_cat.1017000,bieren,cwa_cbl_cat.1016530
-cwa_cbl_cat.1017005,"alcoholvrij, alcoholarm bier",cwa_cbl_cat.1017000
-cwa_cbl_cat.1017010,pilseners,cwa_cbl_cat.1017000
-cwa_cbl_cat.1017015,speciaalbieren,cwa_cbl_cat.1017000
-cwa_cbl_cat.1017500,wijnen en aperitieven,cwa_cbl_cat.1017015
-cwa_cbl_cat.1017531,mixdranken,cwa_cbl_cat.1017500
-cwa_cbl_cat.1018000,niet alcoholhoudende dranken,cwa_cbl_cat.1017531
-cwa_cbl_cat.1018002,cola,cwa_cbl_cat.1018000
-cwa_cbl_cat.1018025,"C-siropen, geconcentreerd vruchtensap",cwa_cbl_cat.1018000
-cwa_cbl_cat.1018004,"lemon, lime",cwa_cbl_cat.1018000
-cwa_cbl_cat.1018010,mineraal- en bronwaters,cwa_cbl_cat.1018000
-cwa_cbl_cat.1018005,overige frisdranken,cwa_cbl_cat.1018000
-cwa_cbl_cat.1018003,sinas,cwa_cbl_cat.1018000
-cwa_cbl_cat.1018030,sport- en energiedranken,cwa_cbl_cat.1018000
-cwa_cbl_cat.1018015,(vruchten)limonadesiropen en -poeders,cwa_cbl_cat.1018000
-cwa_cbl_cat.1018020,"vruchtensappen, vruchtendranken, groentesappen",cwa_cbl_cat.1018000
-cwa_cbl_cat.1018035,weidranken met vruchten,cwa_cbl_cat.1018000
-cwa_cbl_cat.1017517,mousserende wijn,cwa_cbl_cat.1017500
-cwa_cbl_cat.1017530,overige alcoholhoudende dranken,cwa_cbl_cat.1017500
-cwa_cbl_cat.1017525,overige aperitieven,cwa_cbl_cat.1017500
-cwa_cbl_cat.1017505,rode wijn,cwa_cbl_cat.1017500
-cwa_cbl_cat.1017515,rosÃ© wijnen,cwa_cbl_cat.1017500
-cwa_cbl_cat.1017520,sherry's,cwa_cbl_cat.1017500
-cwa_cbl_cat.1017510,witte wijn,cwa_cbl_cat.1017500
-cwa_cbl_cat.1016520,"verpakte pinda's, verpakte noten",cwa_cbl_cat.1016500
-cwa_cbl_cat.1016510,zoute biscuits en koekjes,cwa_cbl_cat.1016500
-cwa_cbl_cat.1016205,"snoep, zacht suikerwerk",cwa_cbl_cat.1016200
-cwa_cbl_cat.1015505,jam,cwa_cbl_cat.1015500
-cwa_cbl_cat.1014505,reformproducten,cwa_cbl_cat.1014500
-cwa_cbl_cat.1013511,"soepen droog, niet portie",cwa_cbl_cat.1013500
-cwa_cbl_cat.1013506,"soepen droog, portie",cwa_cbl_cat.1013500
-cwa_cbl_cat.1013515,"soepen nat, niet portie",cwa_cbl_cat.1013500
-cwa_cbl_cat.1013513,"soepen nat, portie",cwa_cbl_cat.1013500
-cwa_cbl_cat.1013530,soepstengels en croutons,cwa_cbl_cat.1013500
-cwa_cbl_cat.1013525,vermicelli,cwa_cbl_cat.1013500
-cwa_cbl_cat.1013060,ijspoeder,cwa_cbl_cat.1013000
-cwa_cbl_cat.1013010,"mixen voor taart, gebak, cake, pizzabodem",cwa_cbl_cat.1013000
-cwa_cbl_cat.1013015,"mix voor pannenkoek, poffertjes, oliebollen",cwa_cbl_cat.1013000
-cwa_cbl_cat.1013045,puddingpoeder,cwa_cbl_cat.1013000
-cwa_cbl_cat.1013050,"puddingsaus, bessensap",cwa_cbl_cat.1013000
-cwa_cbl_cat.1013035,"taartbodems, pizzabodems",cwa_cbl_cat.1013000
-cwa_cbl_cat.1013055,toppings,cwa_cbl_cat.1013000
-cwa_cbl_cat.1013040,vlaaivullingen,cwa_cbl_cat.1013000
-cwa_cbl_cat.1012005,rijst HB,cwa_cbl_cat.1012000
-cwa_cbl_cat.1011515,zoetmiddelen,cwa_cbl_cat.1011500
-cwa_cbl_cat.1011005,"koffiemelk, koffieroom",cwa_cbl_cat.1011000
-cwa_cbl_cat.1020000,kruidenierswaren  (semi-) vers,cwa_cbl_cat.1000000
-cwa_cbl_cat.1022000,rijst en deegwaren semi sers,cwa_cbl_cat.1020000
-cwa_cbl_cat.1022010,deegwaren semi vers,cwa_cbl_cat.1022000
-cwa_cbl_cat.1026500,"zoutjes, onderleggers, notenbarproducten SV",cwa_cbl_cat.1022010
-cwa_cbl_cat.1026525,notenbarproducten SV,cwa_cbl_cat.1026500
-cwa_cbl_cat.1028000,niet-alcoholhoudende dranken SV,cwa_cbl_cat.1026525
-cwa_cbl_cat.1028020,vruchtensappen en -dranken / groentesappen SV,cwa_cbl_cat.1028000
-cwa_cbl_cat.1022005,rijst semi vers,cwa_cbl_cat.1022000
-cwa_cbl_cat.2400000,lectuur,
-cwa_cbl_cat.2410000,houdbare lectuur,cwa_cbl_cat.2400000
-cwa_cbl_cat.2410500,dagbladen,cwa_cbl_cat.2410000
-cwa_cbl_cat.2410505,dagbladen,cwa_cbl_cat.2410500
-cwa_cbl_cat.2411000,"tijdschriften, opiniebladen",cwa_cbl_cat.2410505
-cwa_cbl_cat.2411040,eenmalige uitgaven,cwa_cbl_cat.2411000
-cwa_cbl_cat.2411500,"boeken, pockets",cwa_cbl_cat.2411040
-cwa_cbl_cat.2411505,"boeken, pockets",cwa_cbl_cat.2411500
-cwa_cbl_cat.2411015,familie- roddelbladen,cwa_cbl_cat.2411000
-cwa_cbl_cat.2411010,mannenbladen,cwa_cbl_cat.2411000
-cwa_cbl_cat.2411035,opinieweekbladen,cwa_cbl_cat.2411000
-cwa_cbl_cat.2411030,puzzelbladen,cwa_cbl_cat.2411000
-cwa_cbl_cat.2411020,rtv-bladen,cwa_cbl_cat.2411000
-cwa_cbl_cat.2411025,speciale interestbladen,cwa_cbl_cat.2411000
-cwa_cbl_cat.2411005,vrouwenbladen,cwa_cbl_cat.2411000
-cwa_cbl_cat.1800000,maaltijden,
-cwa_cbl_cat.1830000,diepvries maaltijden,cwa_cbl_cat.1800000
-cwa_cbl_cat.1830500,diepvries maaltijden,cwa_cbl_cat.1830000
-cwa_cbl_cat.1830505,diepvries (maaltijd)soepen,cwa_cbl_cat.1830500
-cwa_cbl_cat.1830510,k&k diepvriesmenu's,cwa_cbl_cat.1830500
-cwa_cbl_cat.1830520,maaltijdcomponenten,cwa_cbl_cat.1830500
-cwa_cbl_cat.1830515,pizza's,cwa_cbl_cat.1830500
-cwa_cbl_cat.1830525,traiteurachtige producten,cwa_cbl_cat.1830500
-cwa_cbl_cat.1810000,houdbare maaltijden,cwa_cbl_cat.1800000
-cwa_cbl_cat.1810500,houdbare maaltijden,cwa_cbl_cat.1810000
-cwa_cbl_cat.1810515,binnenlandse maaltijden,cwa_cbl_cat.1810500
-cwa_cbl_cat.1810510,buitenlandse maaltijden,cwa_cbl_cat.1810500
-cwa_cbl_cat.1810520,maaltijdcomponenten,cwa_cbl_cat.1810500
-cwa_cbl_cat.1820000,verse maaltijden,cwa_cbl_cat.1800000
-cwa_cbl_cat.1820500,verse lunchproducten,cwa_cbl_cat.1820000
-cwa_cbl_cat.1820505,belegd broodje/sandwich,cwa_cbl_cat.1820500
-cwa_cbl_cat.1821000,vers dinerproducten,cwa_cbl_cat.1820505
-cwa_cbl_cat.1821005,binnenlandse maaltijden,cwa_cbl_cat.1821000
-cwa_cbl_cat.1821010,buitenlandse maaltijden,cwa_cbl_cat.1821000
-cwa_cbl_cat.1821025,maaltijdcomponenten / traiteurachtige producten,cwa_cbl_cat.1821000
-cwa_cbl_cat.1821015,(maaltijd)soepen,cwa_cbl_cat.1821000
-cwa_cbl_cat.1821020,pizza,cwa_cbl_cat.1821000
-cwa_cbl_cat.2800000,overig assortiment,
-cwa_cbl_cat.2810000,houdbaar overig assortiment,cwa_cbl_cat.2800000
-cwa_cbl_cat.2810500,winkelartikelen,cwa_cbl_cat.2810000
-cwa_cbl_cat.2810505,boodschappentassen,cwa_cbl_cat.2810500
-cwa_cbl_cat.2810520,emballage,cwa_cbl_cat.2810500
-cwa_cbl_cat.2811000,textiel,cwa_cbl_cat.2810520
-cwa_cbl_cat.2811010,huishoudtextiel,cwa_cbl_cat.2811000
-cwa_cbl_cat.2811005,"kousen, sokken",cwa_cbl_cat.2811000
-cwa_cbl_cat.2811015,ondergoed,cwa_cbl_cat.2811000
-cwa_cbl_cat.2811020,overige textiel,cwa_cbl_cat.2811000
-cwa_cbl_cat.2811025,schoeisel,cwa_cbl_cat.2811000
-cwa_cbl_cat.2811500,"foto, audio, video",cwa_cbl_cat.2811025
-cwa_cbl_cat.2811510,"beelddragers, geluiddragers",cwa_cbl_cat.2811500
-cwa_cbl_cat.2811515,fotoalbums,cwa_cbl_cat.2811500
-cwa_cbl_cat.2812500,diensten en services,cwa_cbl_cat.2811515
-cwa_cbl_cat.2812515,boodschappenbezorgservice,cwa_cbl_cat.2812500
-cwa_cbl_cat.2812525,foto-ontwikkel en afdruk services,cwa_cbl_cat.2812500
-cwa_cbl_cat.2812505,kledingservices,cwa_cbl_cat.2812500
-cwa_cbl_cat.2812530,kopieer- en faxservice,cwa_cbl_cat.2812500
-cwa_cbl_cat.2812535,overige services,cwa_cbl_cat.2812500
-cwa_cbl_cat.2813000,overig huishoudelijk assortiment,cwa_cbl_cat.2812535
-cwa_cbl_cat.2813025,"glas, porcelein, aardewerk",cwa_cbl_cat.2813000
-cwa_cbl_cat.2815000,voedingsgebonden OTC,cwa_cbl_cat.2813025
-cwa_cbl_cat.2815005,afslankproducten,cwa_cbl_cat.2815000
-cwa_cbl_cat.2815010,"vitaminen, mineralen, voedingssupplementen",cwa_cbl_cat.2815000
-cwa_cbl_cat.2815500,"artikelen tegen aandoeningen,  preparaten",cwa_cbl_cat.2815010
-cwa_cbl_cat.2815535,"blaaspreparaten, geslachtpreparaten",cwa_cbl_cat.2815500
-cwa_cbl_cat.2815540,bloedsomloop preparaten,cwa_cbl_cat.2815500
-cwa_cbl_cat.2815520,grieppreparaten,cwa_cbl_cat.2815500
-cwa_cbl_cat.2815515,"hoestpreparaten, keelpreparaten",cwa_cbl_cat.2815500
-cwa_cbl_cat.2815550,huidverzorging,cwa_cbl_cat.2815500
-cwa_cbl_cat.2815530,oogverzorging,cwa_cbl_cat.2815500
-cwa_cbl_cat.2815531,oorverzorging,cwa_cbl_cat.2815500
-cwa_cbl_cat.2815505,pijnstillende middelen,cwa_cbl_cat.2815500
-cwa_cbl_cat.2815555,"spierverzorging, gewrichtsverzorging",cwa_cbl_cat.2815500
-cwa_cbl_cat.2816000,gedragsbeinvloedende artikelen,cwa_cbl_cat.2815555
-cwa_cbl_cat.2816005,"kalmerend, rustgevend",cwa_cbl_cat.2816000
-cwa_cbl_cat.2816010,middelen tegen reisziekte,cwa_cbl_cat.2816000
-cwa_cbl_cat.2816015,overige habituele aandoeningen,cwa_cbl_cat.2816000
-cwa_cbl_cat.2816500,"testen, diagnostische producten, meetapparatuur",cwa_cbl_cat.2816015
-cwa_cbl_cat.2816510,overige diagnostische testen,cwa_cbl_cat.2816500
-cwa_cbl_cat.2819500,overig assortiment,cwa_cbl_cat.2816510
-cwa_cbl_cat.2819575,apparaten elektrisch / elektronisch,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819505,bijoux,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819580,camping,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819565,decoratie non food,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819535,doe het zelf,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819510,"fiets, auto",cwa_cbl_cat.2819500
-cwa_cbl_cat.2819515,gereedschappen,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819525,haardblokken,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819560,kookboeken,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819585,naaigaren en naaigerei,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819590,optiek,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819599,overige assortiment,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819545,"schoenonderhoudsartikelen, veters",cwa_cbl_cat.2819500
-cwa_cbl_cat.2819550,speelgoed,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819570,"tassen, koffers",cwa_cbl_cat.2819500
-cwa_cbl_cat.2819555,tuinartikelen,cwa_cbl_cat.2819500
-cwa_cbl_cat.2819540,verf en accessoires,cwa_cbl_cat.2819500
-cwa_cbl_cat.2816507,ovulatietest,cwa_cbl_cat.2816500
-cwa_cbl_cat.2816508,thermometers,cwa_cbl_cat.2816500
-cwa_cbl_cat.2816505,zwangerschapstesten,cwa_cbl_cat.2816500
-cwa_cbl_cat.2815525,spijsverteringspreparaten,cwa_cbl_cat.2815500
-cwa_cbl_cat.2815510,verkoudheidspreparaten,cwa_cbl_cat.2815500
-cwa_cbl_cat.2813010,groothuishoudelijk plastic,cwa_cbl_cat.2813000
-cwa_cbl_cat.2813020,keukenhulpjes,cwa_cbl_cat.2813000
-cwa_cbl_cat.2813005,klein huishoudelijk plastic,cwa_cbl_cat.2813000
-cwa_cbl_cat.2813015,"potten, pannen, bakvormen",cwa_cbl_cat.2813000
-cwa_cbl_cat.2812520,PTT-post service,cwa_cbl_cat.2812500
-cwa_cbl_cat.2812510,schoenreparatie,cwa_cbl_cat.2812500
-cwa_cbl_cat.2811505,foto materialen,cwa_cbl_cat.2811500
-cwa_cbl_cat.2810510,folders en brochures,cwa_cbl_cat.2810500
-cwa_cbl_cat.2810515,waardebonnen,cwa_cbl_cat.2810500
-cwa_cbl_cat.2000000,rookwaren,
-cwa_cbl_cat.2010000,houdbare rookwaren,cwa_cbl_cat.2000000
-cwa_cbl_cat.2010500,tabaksproducten,cwa_cbl_cat.2010000
-cwa_cbl_cat.2010520,pijptabak,cwa_cbl_cat.2010500
-cwa_cbl_cat.2011000,hulpmiddelen,cwa_cbl_cat.2010520
-cwa_cbl_cat.2011015,aanstekers,cwa_cbl_cat.2011000
-cwa_cbl_cat.2011010,hulzen/filters,cwa_cbl_cat.2011000
-cwa_cbl_cat.2011005,vloei,cwa_cbl_cat.2011000
-cwa_cbl_cat.2010515,shag,cwa_cbl_cat.2010500
-cwa_cbl_cat.2010510,sigaren,cwa_cbl_cat.2010500
-cwa_cbl_cat.2010505,sigaretten,cwa_cbl_cat.2010500
-cwa_cbl_cat.2200000,schoonmaak en onderhoudsartikelen,
-cwa_cbl_cat.2210000,houdbare schoonmaak en onderhoudsartikelen,cwa_cbl_cat.2200000
-cwa_cbl_cat.2210500,was- en reinigingsmiddelen,cwa_cbl_cat.2210000
-cwa_cbl_cat.2210530,afwas-/vaatwasmiddelen,cwa_cbl_cat.2210500
-cwa_cbl_cat.2210510,"bont-, wol-, fijn-, en handwasmiddelen",cwa_cbl_cat.2210500
-cwa_cbl_cat.2210535,"generieke reinigers, schuurmiddel",cwa_cbl_cat.2210500
-cwa_cbl_cat.2210550,luchtverfrissers,cwa_cbl_cat.2210500
-cwa_cbl_cat.2211000,poetsmiddelen,cwa_cbl_cat.2210550
-cwa_cbl_cat.2211005,meubelreiniging/onderhoudsmiddelen,cwa_cbl_cat.2211000
-cwa_cbl_cat.2211020,schoenpoetsmiddelen,cwa_cbl_cat.2211000
-cwa_cbl_cat.2211015,vloerreiniging/onderhoud,cwa_cbl_cat.2211000
-cwa_cbl_cat.2211010,"zilverpoets, koperpoets",cwa_cbl_cat.2211000
-cwa_cbl_cat.2210525,overig wasmiddelen,cwa_cbl_cat.2210500
-cwa_cbl_cat.2210540,specialistische reinigers,cwa_cbl_cat.2210500
-cwa_cbl_cat.2210545,toiletreinigers,cwa_cbl_cat.2210500
-cwa_cbl_cat.2210515,voorwasmiddelen,cwa_cbl_cat.2210500
-cwa_cbl_cat.2210520,wasverzachters,cwa_cbl_cat.2210500
-cwa_cbl_cat.2210505,witwasmiddelen,cwa_cbl_cat.2210500
-cwa_cbl_cat.2900000,sterk alcoholische dranken,
-cwa_cbl_cat.2910000,houdbare sterk alcoholische dranken,cwa_cbl_cat.2900000
-cwa_cbl_cat.2910500,sterk alcoholische dranken,cwa_cbl_cat.2910000
-cwa_cbl_cat.2910560,anijsdranken,cwa_cbl_cat.2910500
-cwa_cbl_cat.2910520,Berenburg,cwa_cbl_cat.2910500
-cwa_cbl_cat.2910515,brandewijn,cwa_cbl_cat.2910500
-cwa_cbl_cat.2910535,cognac,cwa_cbl_cat.2910500
-cwa_cbl_cat.2910555,creamdranken,cwa_cbl_cat.2910500
-cwa_cbl_cat.2910545,gin,cwa_cbl_cat.2910500
-cwa_cbl_cat.2910505,jenever,cwa_cbl_cat.2910500
-cwa_cbl_cat.2910525,likeuren,cwa_cbl_cat.2910500
-cwa_cbl_cat.2910565,overige specialiteiten,cwa_cbl_cat.2910500
-cwa_cbl_cat.2910540,rum,cwa_cbl_cat.2910500
-cwa_cbl_cat.2910510,vieux,cwa_cbl_cat.2910500
-cwa_cbl_cat.2910530,whisky,cwa_cbl_cat.2910500
-cwa_cbl_cat.4000000,winkelmateriaal,cwa_cbl_cat.2910500
-cwa_cbl_cat.4200010,bonrollen,cwa_cbl_cat.4000000
-cwa_cbl_cat.4200025,diverse,cwa_cbl_cat.4000000
-cwa_cbl_cat.4300015,diverse,cwa_cbl_cat.4000000
-cwa_cbl_cat.4200005,etiketten,cwa_cbl_cat.4000000
-cwa_cbl_cat.4000020,folie zakken,cwa_cbl_cat.4000000
-cwa_cbl_cat.4000025,gecombineerde zakken,cwa_cbl_cat.4000000
-cwa_cbl_cat.4300010,handdoekendispenser,cwa_cbl_cat.4000000
-cwa_cbl_cat.4200020,inktlinten,cwa_cbl_cat.4000000
-cwa_cbl_cat.4100030,kaarten,cwa_cbl_cat.4000000
-cwa_cbl_cat.4200000,"kassabenodigdheden, prijsbenodigdheden",cwa_cbl_cat.4000000
-cwa_cbl_cat.4100035,kleding,cwa_cbl_cat.4000000
-cwa_cbl_cat.4100045,overig styling materiaal,cwa_cbl_cat.4000000
-cwa_cbl_cat.4000010,papieren zakken,cwa_cbl_cat.4000000
-cwa_cbl_cat.4000015,plastic zakken,cwa_cbl_cat.4000000
-cwa_cbl_cat.4300005,rolhouder,cwa_cbl_cat.4000000
-cwa_cbl_cat.4300000,schoon- en hygieneartikelen,cwa_cbl_cat.4000000
-cwa_cbl_cat.4000005,schuimschalen,cwa_cbl_cat.4000000
-cwa_cbl_cat.4100000,stylingmateriaal,cwa_cbl_cat.4000000
-cwa_cbl_cat.4200015,toner,cwa_cbl_cat.4000000
-cwa_cbl_cat.4100040,vlaggenstokken,cwa_cbl_cat.4000000
-cwa_cbl_cat.2910550,wodka,cwa_cbl_cat.2910500
-cwa_cbl_cat.1600000,"vis, schaal- en schelpdieren",
-cwa_cbl_cat.1630000,"diepvries vis, schaal- en schelpdieren",cwa_cbl_cat.1600000
-cwa_cbl_cat.1630500,diepvries vis,cwa_cbl_cat.1630000
-cwa_cbl_cat.1630515,diepvries maatjesharng,cwa_cbl_cat.1630500
-cwa_cbl_cat.1631000,diepvries schaal- en schelpdieren,cwa_cbl_cat.1630515
-cwa_cbl_cat.1631005,schaal en schelpdieren,cwa_cbl_cat.1631000
-cwa_cbl_cat.1630510,gecoate vis,cwa_cbl_cat.1630500
-cwa_cbl_cat.1630505,vis naturel / toebereid,cwa_cbl_cat.1630500
-cwa_cbl_cat.1610000,"houdbare vis, schaal- en schelpdieren",cwa_cbl_cat.1600000
-cwa_cbl_cat.1610500,houdbare visproducten,cwa_cbl_cat.1610000
-cwa_cbl_cat.1610510,visproducten in tube,cwa_cbl_cat.1610500
-cwa_cbl_cat.1610505,"vis, schaal- en schelpdieren in blik",cwa_cbl_cat.1610500
-cwa_cbl_cat.1610515,"vis, schaal- en schelpdieren in glas",cwa_cbl_cat.1610500
-cwa_cbl_cat.1620000,(semi)verse vis,cwa_cbl_cat.1600000
-cwa_cbl_cat.1620500,verse vis,cwa_cbl_cat.1620000
-cwa_cbl_cat.1620510,gebakken / gefrituurde vis,cwa_cbl_cat.1620500
-cwa_cbl_cat.1620515,maatjesharing,cwa_cbl_cat.1620500
-cwa_cbl_cat.1621000,schaal- en schelpdieren,cwa_cbl_cat.1620515
-cwa_cbl_cat.1621005,schaal- en schelpdieren,cwa_cbl_cat.1621000
-cwa_cbl_cat.1621500,verpakte vis,cwa_cbl_cat.1621005
-cwa_cbl_cat.1621515,haring in glas of emmer,cwa_cbl_cat.1621500
-cwa_cbl_cat.1622000,verpakte schaal- en schelpdieren,cwa_cbl_cat.1621515
-cwa_cbl_cat.1622005,verpakte schaal- en schelpdieren,cwa_cbl_cat.1622000
-cwa_cbl_cat.1621510,overige vis in glas,cwa_cbl_cat.1621500
-cwa_cbl_cat.1621505,verpakte vis niet in glas,cwa_cbl_cat.1621500
-cwa_cbl_cat.1620505,"verse vis, onbewerkt, gefileerd, gerookt, gedroogd",cwa_cbl_cat.1620500
-cwa_cbl_cat.1500000,vleeswaren en salades,
-cwa_cbl_cat.1520000,(semi-) verse vleeswaren en salades,cwa_cbl_cat.1500000
-cwa_cbl_cat.1520500,snijverse vleeswaren,cwa_cbl_cat.1520000
-cwa_cbl_cat.1520535,droge en gekookte worst snijvers,cwa_cbl_cat.1520500
-cwa_cbl_cat.1520515,ham snijvers,cwa_cbl_cat.1520500
-cwa_cbl_cat.1520530,"kipproducten snijvers, kalkoenproducten snijvers",cwa_cbl_cat.1520500
-cwa_cbl_cat.1520505,leverproducten snijvers,cwa_cbl_cat.1520500
-cwa_cbl_cat.1520510,pate's snijvers,cwa_cbl_cat.1520500
-cwa_cbl_cat.1520525,"ribsoort snijvers, speksoort snijvers",cwa_cbl_cat.1520500
-cwa_cbl_cat.1520520,rookvlees en rosbief snijvers,cwa_cbl_cat.1520500
-cwa_cbl_cat.1520540,vegetarische vleeswaren snijvers,cwa_cbl_cat.1520500
-cwa_cbl_cat.1521000,verpakte gesneden vleeswaren,cwa_cbl_cat.1520540
-cwa_cbl_cat.1521035,verpakte droge en gekookte worst,cwa_cbl_cat.1521000
-cwa_cbl_cat.1521015,verpakte ham,cwa_cbl_cat.1521000
-cwa_cbl_cat.1521030,verpakte kipproducten en kalkoenproducten,cwa_cbl_cat.1521000
-cwa_cbl_cat.1521005,verpakte leverproducten,cwa_cbl_cat.1521000
-cwa_cbl_cat.1521025,verpakte ribsoorten en speksoorten,cwa_cbl_cat.1521000
-cwa_cbl_cat.1521020,verpakte rookvlees/rosbief,cwa_cbl_cat.1521000
-cwa_cbl_cat.1521040,verpakte vegetarische vleeswaren ,cwa_cbl_cat.1521000
-cwa_cbl_cat.1521500,stuks artikelen,cwa_cbl_cat.1521040
-cwa_cbl_cat.1521525,borrelhapjes,cwa_cbl_cat.1521500
-cwa_cbl_cat.1521515,droge en gekookte worst,cwa_cbl_cat.1521500
-cwa_cbl_cat.1521530,filet americain,cwa_cbl_cat.1521500
-cwa_cbl_cat.1521505,leverworst,cwa_cbl_cat.1521500
-cwa_cbl_cat.1521535,pate,cwa_cbl_cat.1521500
-cwa_cbl_cat.1522000,salades en sauzen,cwa_cbl_cat.1521535
-cwa_cbl_cat.1522015,sauzen los,cwa_cbl_cat.1522000
-cwa_cbl_cat.1522020,sauzen verpakt,cwa_cbl_cat.1522000
-cwa_cbl_cat.1522005,schepsalades los,cwa_cbl_cat.1522000
-cwa_cbl_cat.1522010,verpakte salades,cwa_cbl_cat.1522000
-cwa_cbl_cat.1521510,theeworst,cwa_cbl_cat.1521500
-cwa_cbl_cat.1521520,zure zult,cwa_cbl_cat.1521500
-cwa_cbl_cat.1510000,vleeswarenconserven,cwa_cbl_cat.1500000
-cwa_cbl_cat.1510500,vleeswarenconserven,cwa_cbl_cat.1510000
-cwa_cbl_cat.1510505,vleeswarenconserven,cwa_cbl_cat.1510500
-cwa_cbl_cat.1400000,"vlees, wild en gevogelte",
-cwa_cbl_cat.1430000,"diepvries vlees, wild en gevogelte",cwa_cbl_cat.1400000
-cwa_cbl_cat.1430500,"diepvries vlees, wild en gevogelte",cwa_cbl_cat.1430000
-cwa_cbl_cat.1430505,kip en ander gevogelte,cwa_cbl_cat.1430500
-cwa_cbl_cat.1430520,vegetarische vleesvervangers,cwa_cbl_cat.1430500
-cwa_cbl_cat.1431000,vleessnacks,cwa_cbl_cat.1430520
-cwa_cbl_cat.1431030,diepvries overige snacks / specialiteiten,cwa_cbl_cat.1431000
-cwa_cbl_cat.1431025,gevogelte snacks,cwa_cbl_cat.1431000
-cwa_cbl_cat.1431015,"hamburgers, frikadellen",cwa_cbl_cat.1431000
-cwa_cbl_cat.1431020,"kroketten, bitterballen",cwa_cbl_cat.1431000
-cwa_cbl_cat.1431005,sateh,cwa_cbl_cat.1431000
-cwa_cbl_cat.1430515,vlees / toebereid vlees,cwa_cbl_cat.1430500
-cwa_cbl_cat.1430510,wild,cwa_cbl_cat.1430500
-cwa_cbl_cat.1410000,"houdbaar vlees, wild en gevogelte",cwa_cbl_cat.1400000
-cwa_cbl_cat.1410500,vleesconserven,cwa_cbl_cat.1410000
-cwa_cbl_cat.1410520,rookworst verpakt,cwa_cbl_cat.1410500
-cwa_cbl_cat.1410525,vacuum kip,cwa_cbl_cat.1410500
-cwa_cbl_cat.1410530,vegetarische vleesvervangers,cwa_cbl_cat.1410500
-cwa_cbl_cat.1410510,vleesconserven blik,cwa_cbl_cat.1410500
-cwa_cbl_cat.1410505,vleesconserven glas,cwa_cbl_cat.1410500
-cwa_cbl_cat.1410515,vlees in folie/plastic pakken,cwa_cbl_cat.1410500
-cwa_cbl_cat.1420000,vers vlees,cwa_cbl_cat.1400000
-cwa_cbl_cat.1420500,vers vlees,cwa_cbl_cat.1420000
-cwa_cbl_cat.1420535,bgf-pakketten,cwa_cbl_cat.1420500
-cwa_cbl_cat.1420530,gedraaide vleesproducten,cwa_cbl_cat.1420500
-cwa_cbl_cat.1420520,kalfsvlees,cwa_cbl_cat.1420500
-cwa_cbl_cat.1420525,"lamsvlees, schapenvlees",cwa_cbl_cat.1420500
-cwa_cbl_cat.1420540,overig panklaar vlees,cwa_cbl_cat.1420500
-cwa_cbl_cat.1420515,paardenvlees,cwa_cbl_cat.1420500
-cwa_cbl_cat.1420510,rundvlees,cwa_cbl_cat.1420500
-cwa_cbl_cat.1420511,rundvlees panklaar,cwa_cbl_cat.1420500
-cwa_cbl_cat.1420505,varkensvlees,cwa_cbl_cat.1420500
-cwa_cbl_cat.1420506,varkensvlees panklaar,cwa_cbl_cat.1420500
-cwa_cbl_cat.1420550,vegetarische vleesvervangers,cwa_cbl_cat.1420500
-cwa_cbl_cat.1420551,vegetarische vleesvervangers panklaar,cwa_cbl_cat.1420500
-cwa_cbl_cat.1421000,vers gevogelte,cwa_cbl_cat.1420551
-cwa_cbl_cat.1421010,kalkoen,cwa_cbl_cat.1421000
-cwa_cbl_cat.1421011,kalkoen panklaar,cwa_cbl_cat.1421000
-cwa_cbl_cat.1421005,kip,cwa_cbl_cat.1421000
-cwa_cbl_cat.1421006,kip panklaar,cwa_cbl_cat.1421000
-cwa_cbl_cat.1421015,overig gevogelte,cwa_cbl_cat.1421000
-cwa_cbl_cat.1421020,overig panklaar gevogelte,cwa_cbl_cat.1421000
-cwa_cbl_cat.1421500,vers wild,cwa_cbl_cat.1421020
-cwa_cbl_cat.1421505,"haas,konijn",cwa_cbl_cat.1421500
-cwa_cbl_cat.1421510,overig wild,cwa_cbl_cat.1421500
-cwa_cbl_cat.1420545,verse  rookworst,cwa_cbl_cat.1420500
-cwa_cbl_cat.1100000,zuivel en eieren,
-cwa_cbl_cat.1130000,diepvries zuivel en eieren,cwa_cbl_cat.1100000
-cwa_cbl_cat.1130500,diepvries desserts en sappen,cwa_cbl_cat.1130000
-cwa_cbl_cat.1130510,diepvries geconcentreerde vruchten/groentesappen,cwa_cbl_cat.1130500
-cwa_cbl_cat.1131000,ijs,cwa_cbl_cat.1130510
-cwa_cbl_cat.1131010,"handijs, portieijs, ijssnacks",cwa_cbl_cat.1131000
-cwa_cbl_cat.1131020,ijstaarten e.d.,cwa_cbl_cat.1131000
-cwa_cbl_cat.1131005,schepijs in bakken,cwa_cbl_cat.1131000
-cwa_cbl_cat.1130505,"diepvries pudding, desserts",cwa_cbl_cat.1130500
-cwa_cbl_cat.1110000,houdbare zuivel en eieren,cwa_cbl_cat.1100000
-cwa_cbl_cat.1110500,houdbare melk,cwa_cbl_cat.1110000
-cwa_cbl_cat.1110505,houdbare melk,cwa_cbl_cat.1110500
-cwa_cbl_cat.1111000,overige houdbare zuivel,cwa_cbl_cat.1110505
-cwa_cbl_cat.1111030,chocoladedranken,cwa_cbl_cat.1111000
-cwa_cbl_cat.1111005,houdbare desserts,cwa_cbl_cat.1111000
-cwa_cbl_cat.1111010,houdbare roomproducten,cwa_cbl_cat.1111000
-cwa_cbl_cat.1111015,houdbare zuiveldrinks,cwa_cbl_cat.1111000
-cwa_cbl_cat.1111025,soya drinks/desserts,cwa_cbl_cat.1111000
-cwa_cbl_cat.1111020,watergruwel,cwa_cbl_cat.1111000
-cwa_cbl_cat.1120000,(semi-) vers zuivel en eieren,cwa_cbl_cat.1100000
-cwa_cbl_cat.1120500,eieren,cwa_cbl_cat.1120000
-cwa_cbl_cat.1120505,eieren,cwa_cbl_cat.1120500
-cwa_cbl_cat.1121000,dagverse melk,cwa_cbl_cat.1120505
-cwa_cbl_cat.1121006,dagverse karnemelk,cwa_cbl_cat.1121000
-cwa_cbl_cat.1121010,dagverse (karne-)melkdranken,cwa_cbl_cat.1121000
-cwa_cbl_cat.1121500,overige dagverse zuivel bulk,cwa_cbl_cat.1121010
-cwa_cbl_cat.1121510,homogene vla,cwa_cbl_cat.1121500
-cwa_cbl_cat.1121515,kwark naturel,cwa_cbl_cat.1121500
-cwa_cbl_cat.1121520,pappen,cwa_cbl_cat.1121500
-cwa_cbl_cat.1122000,dagverse zuivelspecialiteiten,cwa_cbl_cat.1121520
-cwa_cbl_cat.1122015,kwark met toevoegingen,cwa_cbl_cat.1122000
-cwa_cbl_cat.1122025,luxe toetjes / specialiteiten,cwa_cbl_cat.1122000
-cwa_cbl_cat.1122020,pudding,cwa_cbl_cat.1122000
-cwa_cbl_cat.1122030,"slagroom, zure room, creme fraiche",cwa_cbl_cat.1122000
-cwa_cbl_cat.1122010,vla met toevoegingen,cwa_cbl_cat.1122000
-cwa_cbl_cat.1122005,yoghurt met toevoegingen,cwa_cbl_cat.1122000
-cwa_cbl_cat.1122035,zuiveldranken,cwa_cbl_cat.1122000
-cwa_cbl_cat.1122500,"geelvetten, witvetten",cwa_cbl_cat.1122035
-cwa_cbl_cat.1122525,"bakproducten, braadproducten",cwa_cbl_cat.1122500
-cwa_cbl_cat.1122505,boter,cwa_cbl_cat.1122500
-cwa_cbl_cat.1122515,botermelange,cwa_cbl_cat.1122500
-cwa_cbl_cat.1122535,frituurvet,cwa_cbl_cat.1122500
-cwa_cbl_cat.1122520,halvarine,cwa_cbl_cat.1122500
-cwa_cbl_cat.1122510,margarine,cwa_cbl_cat.1122500
-cwa_cbl_cat.1121505,yoghurt naturel (homogeen),cwa_cbl_cat.1121500
-cwa_cbl_cat.1121005,dagverse melk ,cwa_cbl_cat.1121000
+id,name,parent_id/id,property_account_expense_categ/id,property_account_income_categ/id
+cwa_module.afdeling_01,"AGF",,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.afdeling_02,"BROOD & BANKET",,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.afdeling_03,"KAAS & DELICATESSEN",,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.afdeling_04,"VLEES & VIS",,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.afdeling_05,"KOELVERS",,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.afdeling_06,"KRUIDENIERSWAREN",,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.afdeling_07,"NON-FOOD",,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.afdeling_08,"TRAITEUR - RESTAURANT",,"voedselcoop_7308","voedselcoop_8008"
+cwa_module.afdeling_09,"STATIEGELD",,"voedselcoop_7309","voedselcoop_8009"
+cwa_module.afdeling_10,"DIEPVRIES",,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_10105,"KOFFIE, CACAO, THEE",cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10110,"HOUDBARE KOFFIEMELK, HOUDBARE KOFFIEROOM",cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10115,SUIKER,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10120,RIJST EN DEEGWAREN HB,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10125,ONTBIJTPRODUCTEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10130,BAKPRODUCTEN EN DESSERTINGREDIËNTEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10135,"SOEPEN, BOUILLONS",cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10140,"SAUZEN, MIXEN",cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10145,"REFORMPRODUCTEN, DIEETPRODUCTEN",cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10150,"BABYVOEDING, KINDERVOEDING",cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10155,BOTERHAMBELEG,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10160,"KOEK, KOEKJES, BANKETSTUKSARTIKELEN",cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10161,CHOCOLADE EN CHOCOLADEPRODUCTEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10162,SNOEP EN ZOETWAREN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10165,"ZOUTJES, ONDERLEGGERS, NOTENBARPRODUCTEN",cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10170,BIEREN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10175,WIJNEN EN APERITIEVEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10180,NIET ALCOHOLHOUDENDE DRANKEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10220,RIJST EN DEEGWAREN SEMI SERS,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_10265,"ZOUTJES, ONDERLEGGERS, NOTENBARPRODUCTEN SV",cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_10280,NIET-ALCOHOLHOUDENDE DRANKEN SV,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_11105,HOUDBARE MELK,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_11110,OVERIGE HOUDBARE ZUIVEL,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_11205,EIEREN,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_11210,DAGVERSE MELK,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_11215,OVERIGE DAGVERSE ZUIVEL BULK,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_11220,DAGVERSE ZUIVELSPECIALITEITEN,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_11225,"GEELVETTEN, WITVETTEN",cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_11305,DIEPVRIES DESSERTS EN SAPPEN,cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_11310,IJS,cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_12205,NEDERLANDSE KAAS UITSNIJ,cwa_module.afdeling_03,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_12210,NEDERLANDSE KAAS VERPAKT,cwa_module.afdeling_03,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_12215,BUITENLANDSE SPECIALITEITEN UITSNIJ,cwa_module.afdeling_03,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_12220,BUITENLANDSE SPECIALITEITEN VERPAKT,cwa_module.afdeling_03,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_12225,OVERIGE SOORTEN VERPAKTE KAAS,cwa_module.afdeling_03,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_13105,AARDAPPELPRODUCTEN,cwa_module.afdeling_01,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_13110,GROENTECONSERVEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_13115,VRUCHTENCONSERVEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_13205,AARDAPPELEN,cwa_module.afdeling_01,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_13210,AARDAPPELPRODUCTEN,cwa_module.afdeling_01,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_13215,VERSE GROENTEN,cwa_module.afdeling_01,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_13220,VERS FRUIT,cwa_module.afdeling_01,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_13305,DIEPVRIES AARDAPPELPRODUCTEN,cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_13310,GROENTEPRODUCTEN,cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_14105,VLEESCONSERVEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_14205,VERS VLEES,cwa_module.afdeling_04,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_14210,VERS GEVOGELTE,cwa_module.afdeling_04,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_14215,VERS WILD,cwa_module.afdeling_04,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_14305,"DIEPVRIES VLEES, WILD EN GEVOGELTE",cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_14310,VLEESSNACKS,cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_15105,VLEESWARENCONSERVEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_15205,SNIJVERSE VLEESWAREN,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_15210,VERPAKTE GESNEDEN VLEESWAREN,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_15215,STUKS ARTIKELEN,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_15220,SALADES EN SAUZEN,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_16105,HOUDBARE VISPRODUCTEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_16205,VERSE VIS,cwa_module.afdeling_04,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_16210,SCHAAL- EN SCHELPDIEREN,cwa_module.afdeling_04,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_16215,VERPAKTE VIS,cwa_module.afdeling_04,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_16220,VERPAKTE SCHAAL- EN SCHELPDIEREN,cwa_module.afdeling_04,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_16305,DIEPVRIES VIS,cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_16310,DIEPVRIES SCHAAL- EN SCHELPDIEREN,cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_17105,HOUDBAAR BROOD,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_17110,BROODVERVANGERS,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_17205,GROOT BROOD,cwa_module.afdeling_02,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_17210,KLEIN BROOD,cwa_module.afdeling_02,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_17213,HALFFABRIKAAT,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_17215,SNACKS,cwa_module.afdeling_02,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_17220,STOKBROOD,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_17225,SEIZOENSBROOD,cwa_module.afdeling_02,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_17230,GROOT GEBAK,cwa_module.afdeling_02,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_17235,KLEIN GEBAK,cwa_module.afdeling_02,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_17240,BANKET,cwa_module.afdeling_02,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_17305,DIEPVRIES BAKKERIJPRODUCTEN,cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_17310,GEBAK,cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_18105,HOUDBARE MAALTIJDEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_18205,VERSE LUNCHPRODUCTEN,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_18210,VERS DINERPRODUCTEN,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_18305,DIEPVRIES MAALTIJDEN,cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_19105,HONDENVOER,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_19110,KATTENVOER,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_19115,OVERIG VOER,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_19205,VERS DIERENVOER,cwa_module.afdeling_04,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_19305,DIEPVRIES DIERENVOER,cwa_module.afdeling_10,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_20105,TABAKSPRODUCTEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_20110,HULPMIDDELEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_21105,"LICHAAMSVERZORGING, MEDISCHE VERZORGING",cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_21110,PERIODEVERZORGING EN LUIERS,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_21115,SANITAIRE PAPIERWAREN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_21120,ZAKDOEKJES,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_22105,WAS- EN REINIGINGSMIDDELEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_22110,POETSMIDDELEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_23105,KANTOORBENODIGDHEDEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_23110,WENSKAARTEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_24105,DAGBLADEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_24110,"TIJDSCHRIFTEN, OPINIEBLADEN",cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_24115,"BOEKEN, POCKETS",cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_25110,HUISHOUDELIJKE WAREN EN ONDERHOUDSMATERIAAL,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_25120,BABYARTIKELEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_25125,PANTY'S/NYLONS,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_25130,SFEER EN VERLICHTING,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_26105,BLOEMEN- EN PLANTVERZORGING,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_26205,VERSE BLOEMEN EN PLANTEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_27105,DIERENBENODIGDHEDEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_28105,WINKELARTIKELEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_28110,TEXTIEL,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_28115,"FOTO, AUDIO, VIDEO",cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_28125,DIENSTEN EN SERVICES,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_28130,OVERIG HUISHOUDELIJK ASSORTIMENT,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_28150,VOEDINGSGEBONDEN OTC,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_28155,"ARTIKELEN TEGEN AANDOENINGEN,  PREPARATEN",cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_28160,GEDRAGSBEINVLOEDENDE ARTIKELEN,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_28165,"TESTEN, DIAGNOSTISCHE PRODUCTEN, MEETAPPARATUUR",cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_28195,OVERIG ASSORTIMENT,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_29105,STERK ALCOHOLISCHE DRANKEN,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_40000,WINKELMATERIAAL,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_41000,STYLINGMATERIAAL,cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_42000,"KASSABENODIGDHEDEN, PRIJSBENODIGDHEDEN",cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_43000,"SCHOON- EN HYGIËNE ARTIKELEN",cwa_module.afdeling_07,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_1010505,KOFFIE,cwa_module.cbl_10105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1010506,KOFFIEPADS,cwa_module.cbl_10105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1010510,OPLOSKOFFIE,cwa_module.cbl_10105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1010512,NEW INSTANT OPLOSKOFFIE,cwa_module.cbl_10105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1010515,KOFFIESTROOP,cwa_module.cbl_10105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1010520,CACAO,cwa_module.cbl_10105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1010525,ANIJSBLOKJES,cwa_module.cbl_10105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1010530,THEE,cwa_module.cbl_10105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1011005,"KOFFIEMELK, KOFFIEROOM",cwa_module.cbl_10110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1011010,"KOFFIECREAMER, MELKPOEDER",cwa_module.cbl_10110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1011505,KRISTALSUIKER,cwa_module.cbl_10115,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1011510,OVERIGE SUIKER,cwa_module.cbl_10115,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1011515,ZOETMIDDELEN,cwa_module.cbl_10115,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1011520,"SUIKERSTROOP, SCHENKSTROOP",cwa_module.cbl_10115,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1012005,RIJST HB,cwa_module.cbl_10120,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1012010,DEEGWAREN,cwa_module.cbl_10120,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1012505,GEPLETTE GRAANPRODUCTEN,cwa_module.cbl_10125,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1012510,CORNFLAKES,cwa_module.cbl_10125,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1012515,MUESLI,cwa_module.cbl_10125,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013005,BLOEM EN TOEBEREIDE BLOEM,cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013010,"MIXEN VOOR TAART, GEBAK, CAKE, PIZZABODEM",cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013015,"MIX VOOR PANNENKOEK, POFFERTJES, OLIEBOLLEN",cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013020,BROODMIXEN,cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013025,BINDMIDDELEN,cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013030,DIVERSE BAKBENODIGDHEDEN,cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013035,"TAARTBODEMS, PIZZABODEMS",cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013040,VLAAIVULLINGEN,cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013045,PUDDINGPOEDER,cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013050,"PUDDINGSAUS, BESSENSAP",cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013055,TOPPINGS,cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013060,IJSPOEDER,cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013065,"GEDROOGDE VRUCHTEN, GEDROOGDE ZUIDVRUCHTEN",cwa_module.cbl_10130,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013506,"SOEPEN DROOG, PORTIE",cwa_module.cbl_10135,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013511,"SOEPEN DROOG, NIET PORTIE",cwa_module.cbl_10135,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013513,"SOEPEN NAT, PORTIE",cwa_module.cbl_10135,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013515,"SOEPEN NAT, NIET PORTIE",cwa_module.cbl_10135,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013520,BOUILLONS DROOG,cwa_module.cbl_10135,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013522,BOUILLONS NAT,cwa_module.cbl_10135,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013525,VERMICELLI,cwa_module.cbl_10135,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013530,SOEPSTENGELS EN CROUTONS,cwa_module.cbl_10135,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1013535,SMAAKVERSTERKERS VOOR SOEP,cwa_module.cbl_10135,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014005,SMAAKMAKERS COMPONENT DROOG KOUD,cwa_module.cbl_10140,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014010,SMAAKMAKERS COMPONENT DROOG WARM,cwa_module.cbl_10140,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014015,SMAAKMAKERS COMPONENT NAT KOUD,cwa_module.cbl_10140,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014020,SMAAKMAKERS COMPONENT  NAT WARM,cwa_module.cbl_10140,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014025,SMAAKMAKERS COMPLEET DROOG WARM EN KOUD,cwa_module.cbl_10140,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014030,SMAAKMAKERS COMPLEET DROOG WARM EN KOUD OVERIG,cwa_module.cbl_10140,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014035,SLAVERSIERDERS (DROOG EN NAT),cwa_module.cbl_10140,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014040,OLIEN,cwa_module.cbl_10140,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014045,AZIJN,cwa_module.cbl_10140,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014050,ZUREN,cwa_module.cbl_10140,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014505,REFORMPRODUCTEN,cwa_module.cbl_10145,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1014510,DIEETPRODUCTEN,cwa_module.cbl_10145,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1015005,"KINDERKOEK, KINDERBISCUIT",cwa_module.cbl_10150,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1015010,"FORMULEVOEDING, GRANENVOEDING",cwa_module.cbl_10150,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1015015,"KINDERMAALTIJDEN, HAPPEN NAT",cwa_module.cbl_10150,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1015020,"KINDERSIROPEN, DRANKEN",cwa_module.cbl_10150,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1015505,JAM,cwa_module.cbl_10155,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1015510,BOTERHAMSMEERSELS,cwa_module.cbl_10155,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1015520,BOTERHAMSTROOISELS,cwa_module.cbl_10155,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1015525,COCOSBROOD,cwa_module.cbl_10155,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016010,"KOEKJES, WAFELS EN BISCUITS",cwa_module.cbl_10160,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016015,"BANKET STUKSARTIKELEN, CAKE",cwa_module.cbl_10160,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016020,SEIZOENSARTIKELEN KOEK(JES),cwa_module.cbl_10160,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016025,TUSSENDOOR KOEK,cwa_module.cbl_10160,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016105,"CHOCOLADEPRODUCTEN, BONBONS, BITE SIZES",cwa_module.cbl_10161,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016110,CHOCOLADEREPEN EN TABLETTEN,cwa_module.cbl_10161,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016115,CANDYBARS,cwa_module.cbl_10161,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016120,SEIZOENSARTIKELEN CHOCOLADE,cwa_module.cbl_10161,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016205,"SNOEP, ZACHT SUIKERWERK",cwa_module.cbl_10162,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016210,KAUWGOM,cwa_module.cbl_10162,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016215,"DROP, HOESTARTIKELEN",cwa_module.cbl_10162,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016220,SEIZOENARTIKELEN SNOEP,cwa_module.cbl_10162,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016505,CHIPS,cwa_module.cbl_10165,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016510,ZOUTE BISCUITS EN KOEKJES,cwa_module.cbl_10165,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016515,COCKTAILSNACKS,cwa_module.cbl_10165,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016520,"VERPAKTE PINDA'S, VERPAKTE NOTEN",cwa_module.cbl_10165,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1016530,"MELBA TOAST, TOASTJES, CRACKERS, CUPS",cwa_module.cbl_10165,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1017005,"ALCOHOLVRIJ, ALCOHOLARM BIER",cwa_module.cbl_10170,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1017010,PILSENERS,cwa_module.cbl_10170,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1017015,SPECIAALBIEREN,cwa_module.cbl_10170,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1017505,RODE WIJN,cwa_module.cbl_10175,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1017510,WITTE WIJN,cwa_module.cbl_10175,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1017515,ROSÃ© WIJNEN,cwa_module.cbl_10175,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1017517,MOUSSERENDE WIJN,cwa_module.cbl_10175,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1017520,SHERRY'S,cwa_module.cbl_10175,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1017525,OVERIGE APERITIEVEN,cwa_module.cbl_10175,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1017530,OVERIGE ALCOHOLHOUDENDE DRANKEN,cwa_module.cbl_10175,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1017531,MIXDRANKEN,cwa_module.cbl_10175,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1018002,COLA,cwa_module.cbl_10180,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1018003,SINAS,cwa_module.cbl_10180,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1018004,"LEMON, LIME",cwa_module.cbl_10180,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1018005,OVERIGE FRISDRANKEN,cwa_module.cbl_10180,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1018010,MINERAAL- EN BRONWATERS,cwa_module.cbl_10180,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1018015,(VRUCHTEN)LIMONADESIROPEN EN -POEDERS,cwa_module.cbl_10180,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1018020,"VRUCHTENSAPPEN, VRUCHTENDRANKEN, GROENTESAPPEN",cwa_module.cbl_10180,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1018025,"C-SIROPEN, GECONCENTREERD VRUCHTENSAP",cwa_module.cbl_10180,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1018030,SPORT- EN ENERGIEDRANKEN,cwa_module.cbl_10180,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1018035,WEIDRANKEN MET VRUCHTEN,cwa_module.cbl_10180,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1022005,RIJST SEMI VERS,cwa_module.cbl_10220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1022010,DEEGWAREN SEMI VERS,cwa_module.cbl_10220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1026525,NOTENBARPRODUCTEN SV,cwa_module.cbl_10265,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1028020,VRUCHTENSAPPEN EN -DRANKEN / GROENTESAPPEN SV,cwa_module.cbl_10280,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1110505,HOUDBARE MELK,cwa_module.cbl_11105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1111005,HOUDBARE DESSERTS,cwa_module.cbl_11110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1111010,HOUDBARE ROOMPRODUCTEN,cwa_module.cbl_11110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1111015,HOUDBARE ZUIVELDRINKS,cwa_module.cbl_11110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1111020,WATERGRUWEL,cwa_module.cbl_11110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1111025,SOYA DRINKS/DESSERTS,cwa_module.cbl_11110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1111030,CHOCOLADEDRANKEN,cwa_module.cbl_11110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1120505,EIEREN,cwa_module.cbl_11205,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1121005,DAGVERSE MELK ,cwa_module.cbl_11210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1121006,DAGVERSE KARNEMELK,cwa_module.cbl_11210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1121010,DAGVERSE (KARNE-)MELKDRANKEN,cwa_module.cbl_11210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1121505,YOGHURT NATUREL (HOMOGEEN),cwa_module.cbl_11215,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1121510,HOMOGENE VLA,cwa_module.cbl_11215,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1121515,KWARK NATUREL,cwa_module.cbl_11215,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1121520,PAPPEN,cwa_module.cbl_11215,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122005,YOGHURT MET TOEVOEGINGEN,cwa_module.cbl_11220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122010,VLA MET TOEVOEGINGEN,cwa_module.cbl_11220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122015,KWARK MET TOEVOEGINGEN,cwa_module.cbl_11220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122020,PUDDING,cwa_module.cbl_11220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122025,LUXE TOETJES / SPECIALITEITEN,cwa_module.cbl_11220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122030,"SLAGROOM, ZURE ROOM, CREME FRAICHE",cwa_module.cbl_11220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122035,ZUIVELDRANKEN,cwa_module.cbl_11220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122505,BOTER,cwa_module.cbl_11225,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122510,MARGARINE,cwa_module.cbl_11225,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122515,BOTERMELANGE,cwa_module.cbl_11225,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122520,HALVARINE,cwa_module.cbl_11225,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122525,"BAKPRODUCTEN, BRAADPRODUCTEN",cwa_module.cbl_11225,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1122535,FRITUURVET,cwa_module.cbl_11225,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1130505,"DIEPVRIES PUDDING, DESSERTS",cwa_module.cbl_11305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1130510,DIEPVRIES GECONCENTREERDE VRUCHTEN/GROENTESAPPEN,cwa_module.cbl_11305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1131005,SCHEPIJS IN BAKKEN,cwa_module.cbl_11310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1131010,"HANDIJS, PORTIEIJS, IJSSNACKS",cwa_module.cbl_11310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1131020,IJSTAARTEN E.D.,cwa_module.cbl_11310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1220505,NEDERLANDSE KAAS UITSNIJ,cwa_module.cbl_12205,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_1221005,NEDERLANDSE KAAS VERPAKT ONGESNEDEN,cwa_module.cbl_12210,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_1221020,"NEDERLANDSE KAAS, VERPAKT, GESNEDEN EN BLOKJES",cwa_module.cbl_12210,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_1221505,BUITENLANDSE SPECIALITEITEN UITSNIJ,cwa_module.cbl_12215,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_1222005,"BUITENLANDSE SPECIALITEITEN, VERPAKT",cwa_module.cbl_12220,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_1222505,GERASPTE KAAS VERPAKT,cwa_module.cbl_12225,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_1222515,SMEERKAAS / KAASSPREAD/ DIPPERS,cwa_module.cbl_12225,"voedselcoop_7303","voedselcoop_8003"
+cwa_module.cbl_1310505,AARDAPPELPUREE,cwa_module.afdeling_06,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1311005,GLASCONSERVEN,cwa_module.cbl_13110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1311010,BLIKCONSERVEN,cwa_module.cbl_13110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1311015,APPELMOES,cwa_module.cbl_13110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1311020,GEDROOGDE PEULVRUCHTEN / GROENTEN,cwa_module.cbl_13110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1311030,TOMATEN,cwa_module.cbl_13110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1311031,TOMATENPUREE,cwa_module.cbl_13110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1311035,OLIJVEN HOUDBAAR,cwa_module.cbl_13110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1311505,VRUCHTENCONSERVEN IN GLAS,cwa_module.cbl_13115,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1311510,VRUCHTENCONSERVEN IN BLIK,cwa_module.cbl_13115,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1320505,ONBEWERKTE AARDAPPELEN,cwa_module.cbl_13205,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1320510,GESCHILDE AARDAPPEL,cwa_module.cbl_13205,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1321005,VERSE FRITES,cwa_module.cbl_13210,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1321010,K&K AARDAPPELPRODUCTEN NATUREL,cwa_module.cbl_13210,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1321020,K&K AARDAPPELPRODUCTEN MET TOEVOEGINGEN,cwa_module.cbl_13210,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1321505,GROENTEN ONBEWERKT,cwa_module.cbl_13215,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1321510,"KOMKOMMER, UIEN, KNOFLOOK, CHAMPIGNONS, PAPRIKA'S",cwa_module.cbl_13215,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1321515,VERSE KRUIDEN EN KRUIDEN OP NAT,cwa_module.cbl_13215,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1321520,BEWERKTE GROENTEN,cwa_module.cbl_13215,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1321525,GEMENGDE VERSE GROENTEN,cwa_module.cbl_13215,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1321530,"TAHOE, TEMPEH, TOFU",cwa_module.cbl_13215,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1321535,"OLIJVEN, POMMODORI, PEPPERONI",cwa_module.cbl_13215,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1322005,HARD FRUIT,cwa_module.cbl_13220,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1322010,ZACHT FRUIT,cwa_module.cbl_13220,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1322015,CITRUSVRUCHTEN,cwa_module.cbl_13220,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1322020,EXOTEN,cwa_module.cbl_13220,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1322025,BESSEN,cwa_module.cbl_13220,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1322030,FRUITMANDEN,cwa_module.cbl_13220,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1322035,VERSE NOTEN,cwa_module.cbl_13220,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1322040,K&K VERS FRUIT,cwa_module.cbl_13220,"voedselcoop_7301","voedselcoop_8001"
+cwa_module.cbl_1330505,FRITES,cwa_module.cbl_13305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1330510,OVERIGE ENKELVOUDIGE AARDAPPELPRODUCTEN,cwa_module.cbl_13305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1331005,ENKELVOUDIGE EN SAMENGESTELDE GROENTEN,cwa_module.cbl_13310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1331010,SOEPGROENTEN,cwa_module.cbl_13310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1331015,KRUIDEN,cwa_module.cbl_13310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1331020,FRUIT EN VRUCHTENMELANGE,cwa_module.cbl_13310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1410505,VLEESCONSERVEN GLAS,cwa_module.cbl_14105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1410510,VLEESCONSERVEN BLIK,cwa_module.cbl_14105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1410515,VLEES IN FOLIE/PLASTIC PAKKEN,cwa_module.cbl_14105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1410520,ROOKWORST VERPAKT,cwa_module.cbl_14105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1410525,VACUUM KIP,cwa_module.cbl_14105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1410530,VEGETARISCHE VLEESVERVANGERS,cwa_module.cbl_14105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420505,VARKENSVLEES,cwa_module.cbl_14205,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420506,VARKENSVLEES PANKLAAR,cwa_module.cbl_14205,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420510,RUNDVLEES,cwa_module.cbl_14205,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420511,RUNDVLEES PANKLAAR,cwa_module.cbl_14205,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420515,PAARDENVLEES,cwa_module.cbl_14205,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420520,KALFSVLEES,cwa_module.cbl_14205,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420525,"LAMSVLEES, SCHAPENVLEES",cwa_module.cbl_14205,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420530,GEDRAAIDE VLEESPRODUCTEN,cwa_module.cbl_14205,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420535,BGF-PAKKETTEN,cwa_module.cbl_14205,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420540,OVERIG PANKLAAR VLEES,cwa_module.cbl_14205,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420545,VERSE  ROOKWORST,cwa_module.cbl_14205,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1420550,VEGETARISCHE VLEESVERVANGERS,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1420551,VEGETARISCHE VLEESVERVANGERS PANKLAAR,cwa_module.afdeling_05,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1421005,KIP,cwa_module.cbl_14210,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1421006,KIP PANKLAAR,cwa_module.cbl_14210,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1421010,KALKOEN,cwa_module.cbl_14210,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1421011,KALKOEN PANKLAAR,cwa_module.cbl_14210,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1421015,OVERIG GEVOGELTE,cwa_module.cbl_14210,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1421020,OVERIG PANKLAAR GEVOGELTE,cwa_module.cbl_14210,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1421505,"HAAS,KONIJN",cwa_module.cbl_14215,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1421510,OVERIG WILD,cwa_module.cbl_14215,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1430505,KIP EN ANDER GEVOGELTE,cwa_module.cbl_14305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1430510,WILD,cwa_module.cbl_14305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1430515,VLEES / TOEBEREID VLEES,cwa_module.cbl_14305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1430520,VEGETARISCHE VLEESVERVANGERS,cwa_module.cbl_14305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1431005,SATEH,cwa_module.cbl_14310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1431015,"HAMBURGERS, FRIKADELLEN",cwa_module.cbl_14310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1431020,"KROKETTEN, BITTERBALLEN",cwa_module.cbl_14310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1431025,GEVOGELTE SNACKS,cwa_module.cbl_14310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1431030,DIEPVRIES OVERIGE SNACKS / SPECIALITEITEN,cwa_module.cbl_14310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1510505,VLEESWARENCONSERVEN,cwa_module.cbl_15105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1520505,LEVERPRODUCTEN SNIJVERS,cwa_module.cbl_15205,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1520510,PATE'S SNIJVERS,cwa_module.cbl_15205,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1520515,HAM SNIJVERS,cwa_module.cbl_15205,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1520520,ROOKVLEES EN ROSBIEF SNIJVERS,cwa_module.cbl_15205,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1520525,"RIBSOORT SNIJVERS, SPEKSOORT SNIJVERS",cwa_module.cbl_15205,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1520530,"KIPPRODUCTEN SNIJVERS, KALKOENPRODUCTEN SNIJVERS",cwa_module.cbl_15205,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1520535,DROGE EN GEKOOKTE WORST SNIJVERS,cwa_module.cbl_15205,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1520540,VEGETARISCHE VLEESWAREN SNIJVERS,cwa_module.cbl_15205,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521005,VERPAKTE LEVERPRODUCTEN,cwa_module.cbl_15210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521015,VERPAKTE HAM,cwa_module.cbl_15210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521020,VERPAKTE ROOKVLEES/ROSBIEF,cwa_module.cbl_15210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521025,VERPAKTE RIBSOORTEN EN SPEKSOORTEN,cwa_module.cbl_15210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521030,VERPAKTE KIPPRODUCTEN EN KALKOENPRODUCTEN,cwa_module.cbl_15210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521035,VERPAKTE DROGE EN GEKOOKTE WORST,cwa_module.cbl_15210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521040,VERPAKTE VEGETARISCHE VLEESWAREN ,cwa_module.cbl_15210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521505,LEVERWORST,cwa_module.cbl_15215,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521510,THEEWORST,cwa_module.cbl_15215,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521515,DROGE EN GEKOOKTE WORST,cwa_module.cbl_15215,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521520,ZURE ZULT,cwa_module.cbl_15215,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521525,BORRELHAPJES,cwa_module.cbl_15215,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521530,FILET AMERICAIN,cwa_module.cbl_15215,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1521535,PATE,cwa_module.cbl_15215,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1522005,SCHEPSALADES LOS,cwa_module.cbl_15220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1522010,VERPAKTE SALADES,cwa_module.cbl_15220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1522015,SAUZEN LOS,cwa_module.cbl_15220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1522020,SAUZEN VERPAKT,cwa_module.cbl_15220,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1610505,"VIS, SCHAAL- EN SCHELPDIEREN IN BLIK",cwa_module.cbl_16105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1610510,VISPRODUCTEN IN TUBE,cwa_module.cbl_16105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1610515,"VIS, SCHAAL- EN SCHELPDIEREN IN GLAS",cwa_module.cbl_16105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1620505,"VERSE VIS, ONBEWERKT, GEFILEERD, GEROOKT, GEDROOGD",cwa_module.cbl_16205,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1620510,GEBAKKEN / GEFRITUURDE VIS,cwa_module.cbl_16205,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1620515,MAATJESHARING,cwa_module.cbl_16205,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1621005,SCHAAL- EN SCHELPDIEREN,cwa_module.cbl_16210,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1621505,VERPAKTE VIS NIET IN GLAS,cwa_module.cbl_16215,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1621510,OVERIGE VIS IN GLAS,cwa_module.cbl_16215,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1621515,HARING IN GLAS OF EMMER,cwa_module.cbl_16215,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1622005,VERPAKTE SCHAAL- EN SCHELPDIEREN,cwa_module.cbl_16220,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1630505,VIS NATUREL / TOEBEREID,cwa_module.cbl_16305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1630510,GECOATE VIS,cwa_module.cbl_16305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1630515,DIEPVRIES MAATJESHARNG,cwa_module.cbl_16305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1631005,SCHAAL EN SCHELPDIEREN,cwa_module.cbl_16310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1710505,ROGGEBROOD,cwa_module.cbl_17105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1710510,BUITENLANDS/HOUDBAAR  BROOD,cwa_module.cbl_17105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1710515,HALFFABRIKATEN,cwa_module.cbl_17105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1711005,BESCHUIT,cwa_module.cbl_17110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1711010,GEPOFTE RIJSTWAFELS,cwa_module.cbl_17110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1711015,KNÃ€CKEBRÃ¶D,cwa_module.cbl_17110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1711020,GEROOSTERD BROOD / CRACKERS GROOT,cwa_module.cbl_17110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1711025,ONTBIJTKOEK,cwa_module.cbl_17110,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1720505,WIT BROOD,cwa_module.cbl_17205,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1720510,BRUIN BROOD,cwa_module.cbl_17205,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1720515,VOLKORENBROOD,cwa_module.cbl_17205,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1720520,MEERGRANENBROOD,cwa_module.cbl_17205,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1720530,GEVULD BROOD,cwa_module.cbl_17205,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1721005,KLEIN WITBROOD,cwa_module.cbl_17210,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1721010,KLEIN BRUINBROOD,cwa_module.cbl_17210,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1721015,KLEIN BROOD VOLKOREN EN MEERGRANEN,cwa_module.cbl_17210,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1721020,KLEIN BROOD GEVULD,cwa_module.cbl_17210,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1721315,HALFFABRIKAAT VERS GEKOELD ,cwa_module.cbl_17213,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1721505,HARTIGE SNACKS,cwa_module.cbl_17215,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1721510,ZOETE SNACKS,cwa_module.cbl_17215,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1721515,BROODSNACKS GROOT,cwa_module.cbl_17215,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1722005,STOKBROOD,cwa_module.cbl_17220,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1722010,GEKOELDE HALFFABRIKATEN GROOT,cwa_module.cbl_17220,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1722505,SEIZOENSBROOD,cwa_module.cbl_17225,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1723005,TAARTEN EN SCHNITTES,cwa_module.cbl_17230,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1723010,VLAAIEN,cwa_module.cbl_17230,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1723505,KLEIN GEBAK,cwa_module.cbl_17235,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1724005,BANKET,cwa_module.cbl_17240,"voedselcoop_7302","voedselcoop_8002"
+cwa_module.cbl_1730505,BLADERDEEG,cwa_module.cbl_17305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1731005,GROOT GEBAK,cwa_module.cbl_17310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1731010,KLEIN GEBAK,cwa_module.cbl_17310,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1810510,BUITENLANDSE MAALTIJDEN,cwa_module.cbl_18105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1810515,BINNENLANDSE MAALTIJDEN,cwa_module.cbl_18105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1810520,MAALTIJDCOMPONENTEN,cwa_module.cbl_18105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_1820505,BELEGD BROODJE/SANDWICH,cwa_module.cbl_18205,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1821005,BINNENLANDSE MAALTIJDEN,cwa_module.cbl_18210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1821010,BUITENLANDSE MAALTIJDEN,cwa_module.cbl_18210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1821015,(MAALTIJD)SOEPEN,cwa_module.cbl_18210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1821020,PIZZA,cwa_module.cbl_18210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1821025,MAALTIJDCOMPONENTEN / TRAITEURACHTIGE PRODUCTEN,cwa_module.cbl_18210,"voedselcoop_7305","voedselcoop_8005"
+cwa_module.cbl_1830505,DIEPVRIES (MAALTIJD)SOEPEN,cwa_module.cbl_18305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1830510,K&K DIEPVRIESMENU'S,cwa_module.cbl_18305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1830515,PIZZA'S,cwa_module.cbl_18305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1830520,MAALTIJDCOMPONENTEN,cwa_module.cbl_18305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1830525,TRAITEURACHTIGE PRODUCTEN,cwa_module.cbl_18305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_1910505,DROOG HONDENVOER,cwa_module.cbl_19105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_1910510,NAT HONDENVOER,cwa_module.cbl_19105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_1910515,SNACKS VOOR HONDEN,cwa_module.cbl_19105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_1911005,DROOG KATTENVOER,cwa_module.cbl_19110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_1911010,NAT KATTENVOER,cwa_module.cbl_19110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_1911015,SNACKS VOOR KATTEN,cwa_module.cbl_19110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_1911505,VOGELVOER,cwa_module.cbl_19115,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_1911510,KNAAGDIERVOER,cwa_module.cbl_19115,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_1911515,VISVOER,cwa_module.cbl_19115,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_1920505,ORGAANVLEES VERS,cwa_module.cbl_19205,"voedselcoop_7304","voedselcoop_8004"
+cwa_module.cbl_1930505,"ORGAANVLEES, DIEPVRIES",cwa_module.cbl_19305,"voedselcoop_7310","voedselcoop_8010"
+cwa_module.cbl_2010505,SIGARETTEN,cwa_module.cbl_20105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2010510,SIGAREN,cwa_module.cbl_20105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2010515,SHAG,cwa_module.cbl_20105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2010520,PIJPTABAK,cwa_module.cbl_20105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2011005,VLOEI,cwa_module.cbl_20110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2011010,HULZEN/FILTERS,cwa_module.cbl_20110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2011015,AANSTEKERS,cwa_module.cbl_20110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110505,"TOILETZEEP, BADZEEP, DOUCHESCHUIM",cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110510,VERZORGENDE COSMETICA,cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110511,DEODORANTS,cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110512,DAMES EN HERENGEUREN,cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110513,ONTHARINGSPRODUCTEN,cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110515,DECORATIEVE COSMETICA EN TOEBEHOREN,cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110520,SHAMPOO,cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110525,OVERIGE HAARVERZORGINGS PRODUCTEN,cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110530,MONDVERZORGING,cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110535,BABYVERZORGING,cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110540,SCHEERPRODUCTEN EN TOEBEHOREN,cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110545,"WONDARTIKELEN, INHALER",cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2110550,CONDOOMS,cwa_module.cbl_21105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2111005,"DAMESVERBAND, INLEGKRUISJES, TAMPONS",cwa_module.cbl_21110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2111010,WEGGOOILUIERS,cwa_module.cbl_21110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2111015,INCONTINENTIEPRODUCTEN,cwa_module.cbl_21110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2111505,(VOCHTIG) WC-PAPIER,cwa_module.cbl_21115,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2111510,KEUKENROLLEN,cwa_module.cbl_21115,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2112005,"PAPIEREN ZAKDOEKJES, TISSUES",cwa_module.cbl_21120,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2210505,WITWASMIDDELEN,cwa_module.cbl_22105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2210510,"BONT-, WOL-, FIJN-, EN HANDWASMIDDELEN",cwa_module.cbl_22105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2210515,VOORWASMIDDELEN,cwa_module.cbl_22105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2210520,WASVERZACHTERS,cwa_module.cbl_22105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2210525,OVERIG WASMIDDELEN,cwa_module.cbl_22105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2210530,AFWAS-/VAATWASMIDDELEN,cwa_module.cbl_22105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2210535,"GENERIEKE REINIGERS, SCHUURMIDDEL",cwa_module.cbl_22105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2210540,SPECIALISTISCHE REINIGERS,cwa_module.cbl_22105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2210545,TOILETREINIGERS,cwa_module.cbl_22105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2210550,LUCHTVERFRISSERS,cwa_module.cbl_22105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2211005,MEUBELREINIGING/ONDERHOUDSMIDDELEN,cwa_module.cbl_22110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2211010,"ZILVERPOETS, KOPERPOETS",cwa_module.cbl_22110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2211015,VLOERREINIGING/ONDERHOUD,cwa_module.cbl_22110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2211020,SCHOENPOETSMIDDELEN,cwa_module.cbl_22110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2310505,SCHRIJFWAREN,cwa_module.cbl_23105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2310510,BUREAU ACCESSOIRES,cwa_module.cbl_23105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2310520,"SCHRIJFBLOKKEN, MULTO-PAPIER, SCHRIFTEN",cwa_module.cbl_23105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2310525,ENVELOPPEN,cwa_module.cbl_23105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2310530,"KADOPAPIER, FEESTARTIKELEN, DECORATIES",cwa_module.cbl_23105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2311005,WENSKAARTEN,cwa_module.cbl_23110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2410505,DAGBLADEN,cwa_module.cbl_24105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2411005,VROUWENBLADEN,cwa_module.cbl_24110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2411010,MANNENBLADEN,cwa_module.cbl_24110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2411015,FAMILIE- RODDELBLADEN,cwa_module.cbl_24110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2411020,RTV-BLADEN,cwa_module.cbl_24110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2411025,SPECIALE INTERESTBLADEN,cwa_module.cbl_24110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2411030,PUZZELBLADEN,cwa_module.cbl_24110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2411035,OPINIEWEEKBLADEN,cwa_module.cbl_24110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2411040,EENMALIGE UITGAVEN,cwa_module.cbl_24110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2411505,"BOEKEN, POCKETS",cwa_module.cbl_24115,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2511005,"VUILNISZAKKEN, PEDAALEMMERZAKKEN",cwa_module.cbl_25110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2511010,HUISHOUDFOLIE,cwa_module.cbl_25110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2511015,"BOTERHAMZAKJES, DIEPVRIESZAKJES",cwa_module.cbl_25110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2511020,"WASEMKAPFILTERS, STOFZUIGERZAKKEN",cwa_module.cbl_25110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2511025,KOFFIEFILTERS,cwa_module.cbl_25110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2511030,WEGWERPARTIKELEN,cwa_module.cbl_25110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2511035,ONDERHOUDSMATERIALEN / BORSTELWERK,cwa_module.cbl_25110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2511040,INSECTENVERDELGERS,cwa_module.cbl_25110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2512005,"ZUIGFLESSEN, SPENEN",cwa_module.cbl_25120,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2512505,PANTY'S/NYLONS,cwa_module.cbl_25125,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2513005,GLOEILAMPEN,cwa_module.cbl_25130,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2513010,BATTERIJEN,cwa_module.cbl_25130,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2513015,"KAARSEN, WAXINELICHTJES",cwa_module.cbl_25130,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2513020,"AANMAAKBLOKJES, HOUTSKOOL",cwa_module.cbl_25130,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2513025,LUCIFERS,cwa_module.cbl_25130,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2610505,BLOEMEN- EN PLANTVOEDING EN VERZORGING,cwa_module.cbl_26105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2610520,POTGROND,cwa_module.cbl_26105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2620505,SNIJBLOEMEN,cwa_module.cbl_26205,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2620510,(KAMER)PLANTEN,cwa_module.cbl_26205,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2620515,SEIZOENSARTIKELEN,cwa_module.cbl_26205,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2710505,DIERENBENODIGDHEDEN,cwa_module.cbl_27105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2710510,KATTENBAKVULLING,cwa_module.cbl_27105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2710515,SCHELPENZAND,cwa_module.cbl_27105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2710520,"HOOI, STRO",cwa_module.cbl_27105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2810505,BOODSCHAPPENTASSEN,cwa_module.cbl_28105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2810510,FOLDERS EN BROCHURES,cwa_module.cbl_28105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2810515,WAARDEBONNEN,cwa_module.cbl_28105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2810520,EMBALLAGE,cwa_module.cbl_28105,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2811005,"KOUSEN, SOKKEN",cwa_module.cbl_28110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2811010,HUISHOUDTEXTIEL,cwa_module.cbl_28110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2811015,ONDERGOED,cwa_module.cbl_28110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2811020,OVERIGE TEXTIEL,cwa_module.cbl_28110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2811025,SCHOEISEL,cwa_module.cbl_28110,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2811505,FOTO MATERIALEN,cwa_module.cbl_28115,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2811510,"BEELDDRAGERS, GELUIDDRAGERS",cwa_module.cbl_28115,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2811515,FOTOALBUMS,cwa_module.cbl_28115,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2812505,KLEDINGSERVICES,cwa_module.cbl_28125,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2812510,SCHOENREPARATIE,cwa_module.cbl_28125,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2812515,BOODSCHAPPENBEZORGSERVICE,cwa_module.cbl_28125,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2812520,PTT-POST SERVICE,cwa_module.cbl_28125,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2812525,FOTO-ONTWIKKEL EN AFDRUK SERVICES,cwa_module.cbl_28125,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2812530,KOPIEER- EN FAXSERVICE,cwa_module.cbl_28125,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2812535,OVERIGE SERVICES,cwa_module.cbl_28125,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2813005,KLEIN HUISHOUDELIJK PLASTIC,cwa_module.cbl_28130,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2813010,GROOTHUISHOUDELIJK PLASTIC,cwa_module.cbl_28130,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2813015,"POTTEN, PANNEN, BAKVORMEN",cwa_module.cbl_28130,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2813020,KEUKENHULPJES,cwa_module.cbl_28130,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2813025,"GLAS, PORCELEIN, AARDEWERK",cwa_module.cbl_28130,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815005,AFSLANKPRODUCTEN,cwa_module.cbl_28150,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815010,"VITAMINEN, MINERALEN, VOEDINGSSUPPLEMENTEN",cwa_module.cbl_28150,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815505,PIJNSTILLENDE MIDDELEN,cwa_module.cbl_28155,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815510,VERKOUDHEIDSPREPARATEN,cwa_module.cbl_28155,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815515,"HOESTPREPARATEN, KEELPREPARATEN",cwa_module.cbl_28155,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815520,GRIEPPREPARATEN,cwa_module.cbl_28155,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815525,SPIJSVERTERINGSPREPARATEN,cwa_module.cbl_28155,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815530,OOGVERZORGING,cwa_module.cbl_28155,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815531,OORVERZORGING,cwa_module.cbl_28155,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815535,"BLAASPREPARATEN, GESLACHTPREPARATEN",cwa_module.cbl_28155,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815540,BLOEDSOMLOOP PREPARATEN,cwa_module.cbl_28155,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815550,HUIDVERZORGING,cwa_module.cbl_28155,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2815555,"SPIERVERZORGING, GEWRICHTSVERZORGING",cwa_module.cbl_28155,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2816005,"KALMEREND, RUSTGEVEND",cwa_module.cbl_28160,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2816010,MIDDELEN TEGEN REISZIEKTE,cwa_module.cbl_28160,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2816015,OVERIGE HABITUELE AANDOENINGEN,cwa_module.cbl_28160,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2816505,ZWANGERSCHAPSTESTEN,cwa_module.cbl_28165,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2816507,OVULATIETEST,cwa_module.cbl_28165,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2816508,THERMOMETERS,cwa_module.cbl_28165,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2816510,OVERIGE DIAGNOSTISCHE TESTEN,cwa_module.cbl_28165,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819505,BIJOUX,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819510,"FIETS, AUTO",cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819515,GEREEDSCHAPPEN,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819525,HAARDBLOKKEN,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819535,DOE HET ZELF,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819540,VERF EN ACCESSOIRES,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819545,"SCHOENONDERHOUDSARTIKELEN, VETERS",cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819550,SPEELGOED,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819555,TUINARTIKELEN,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819560,KOOKBOEKEN,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819565,DECORATIE NON FOOD,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819570,"TASSEN, KOFFERS",cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819575,APPARATEN ELEKTRISCH / ELEKTRONISCH,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819580,CAMPING,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819585,NAAIGAREN EN NAAIGEREI,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819590,OPTIEK,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2819599,OVERIGE ASSORTIMENT,cwa_module.cbl_28195,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_2910505,JENEVER,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910510,VIEUX,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910515,BRANDEWIJN,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910520,BERENBURG,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910525,LIKEUREN,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910530,WHISKY,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910535,COGNAC,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910540,RUM,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910545,GIN,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910550,WODKA,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910555,CREAMDRANKEN,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910560,ANIJSDRANKEN,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_2910565,OVERIGE SPECIALITEITEN,cwa_module.cbl_29105,"voedselcoop_7306","voedselcoop_8006"
+cwa_module.cbl_4000005,SCHUIMSCHALEN,cwa_module.cbl_40000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4000010,PAPIEREN ZAKKEN,cwa_module.cbl_40000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4000015,PLASTIC ZAKKEN,cwa_module.cbl_40000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4000020,FOLIE ZAKKEN,cwa_module.cbl_40000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4000025,GECOMBINEERDE ZAKKEN,cwa_module.cbl_40000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4100030,KAARTEN,cwa_module.cbl_41000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4100035,KLEDING,cwa_module.cbl_41000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4100040,VLAGGENSTOKKEN,cwa_module.cbl_41000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4100045,OVERIG STYLING MATERIAAL,cwa_module.cbl_41000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4200005,ETIKETTEN,cwa_module.cbl_42000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4200010,BONROLLEN,cwa_module.cbl_42000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4200015,TONER,cwa_module.cbl_42000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4200020,INKTLINTEN,cwa_module.cbl_42000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4200025,DIVERSE,cwa_module.cbl_42000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4300005,ROLHOUDER,cwa_module.cbl_43000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4300010,HANDDOEKENDISPENSER,cwa_module.cbl_43000,"voedselcoop_7307","voedselcoop_8007"
+cwa_module.cbl_4300015,DIVERSE,cwa_module.cbl_43000,"voedselcoop_7307","voedselcoop_8007"

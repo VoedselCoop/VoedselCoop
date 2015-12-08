@@ -3,6 +3,7 @@
 	<data noupdate="False">
 		<record id="supplier_code_1001" model="res.partner">
 			<field name="name">Udea</field>
+			<field name="ref">UDEA</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -15,6 +16,7 @@
 		</record>
 		<record id="supplier_code_1002" model="res.partner">
 			<field name="name">Natudis</field>
+			<field name="ref">NATUD</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -27,6 +29,7 @@
 		</record>
 		<record id="supplier_code_1003" model="res.partner">
 			<field name="name">Verbeek</field>
+			<field name="ref">VERBK</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -39,6 +42,7 @@
 		</record>
 		<record id="supplier_code_1004" model="res.partner">
 			<field name="name">TerraSana</field>
+			<field name="ref">TSANA</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -51,6 +55,7 @@
 		</record>
 		<record id="supplier_code_1006" model="res.partner">
 			<field name="name">Zonnemaire / Van der Westen</field>
+			<field name="ref">VDWST</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -63,6 +68,7 @@
 		</record>
 		<record id="supplier_code_1007" model="res.partner">
 			<field name="name">ID Organics (BudgetBulk)</field>
+			<field name="ref">IDORG</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -75,6 +81,7 @@
 		</record>
 		<record id="supplier_code_1008" model="res.partner">
 			<field name="name">De Nieuwe Band</field>
+			<field name="ref">DNBND</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -87,6 +94,7 @@
 		</record>
 		<record id="supplier_code_1009" model="res.partner">
 			<field name="name">Solgar</field>
+			<field name="ref">SLGAR</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -99,6 +107,7 @@
 		</record>
 		<record id="supplier_code_1012" model="res.partner">
 			<field name="name">Arkopharma</field>
+			<field name="ref">ARKOP</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -111,6 +120,7 @@
 		</record>
 		<record id="supplier_code_1014" model="res.partner">
 			<field name="name">Weleda</field>
+			<field name="ref">WLEDA</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -123,6 +133,7 @@
 		</record>
 		<record id="supplier_code_1020" model="res.partner">
 			<field name="name">Mira International (de Moeder’s Geuren)</field>
+			<field name="ref">MIRA</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -135,6 +146,7 @@
 		</record>
 		<record id="supplier_code_1023" model="res.partner">
 			<field name="name">Floris Recycled Stationary</field>
+			<field name="ref">FLORI</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -147,6 +159,7 @@
 		</record>
 		<record id="supplier_code_1029" model="res.partner">
 			<field name="name">Bloesem Remedies</field>
+			<field name="ref">BLREM</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -159,6 +172,7 @@
 		</record>
 		<record id="supplier_code_1036" model="res.partner">
 			<field name="name">De Zaai-Ster</field>
+			<field name="ref">ZSTER</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -171,6 +185,7 @@
 		</record>
 		<record id="supplier_code_1039" model="res.partner">
 			<field name="name">Odin / Estafette</field>
+			<field name="ref">ODIN</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -183,6 +198,7 @@
 		</record>
 		<record id="supplier_code_1040" model="res.partner">
 			<field name="name">Kroon</field>
+			<field name="ref">KROON</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -195,6 +211,7 @@
 		</record>
 		<record id="supplier_code_1042" model="res.partner">
 			<field name="name">Het Blauwe Huis</field>
+			<field name="ref">BHUIS</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -208,6 +225,7 @@
 		</record>
 		<record id="supplier_code_1043" model="res.partner">
 			<field name="name">De Bolster Biologische Zaden</field>
+			<field name="ref">BOLST</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -220,6 +238,7 @@
 		</record>
 		<record id="supplier_code_1052" model="res.partner">
 			<field name="name">Dipam</field>
+			<field name="ref">DIPAM</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -232,6 +251,7 @@
 		</record>
 		<record id="supplier_code_1054" model="res.partner">
 			<field name="name">Natrada</field>
+			<field name="ref">NATRA</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -244,6 +264,7 @@
 		</record>
 		<record id="supplier_code_1056" model="res.partner">
 			<field name="name">Wala</field>
+			<field name="ref">WALA</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -256,6 +277,7 @@
 		</record>
 		<record id="supplier_code_1061" model="res.partner">
 			<field name="name">Kroon AGF</field>
+			<field name="ref">KROON</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -268,6 +290,7 @@
 		</record>
 		<record id="supplier_code_1065" model="res.partner">
 			<field name="name">Holland Pharma</field>
+			<field name="ref">PHARM</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -280,6 +303,7 @@
 		</record>
 		<record id="supplier_code_1071" model="res.partner">
 			<field name="name">De Consequente Bio-Bakker (Ahaus)</field>
+			<field name="ref">CBBAK</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -292,6 +316,7 @@
 		</record>
 		<record id="supplier_code_1116" model="res.partner">
 			<field name="name">Udea AGF</field>
+			<field name="ref">UDEA</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -304,6 +329,7 @@
 		</record>
 		<record id="supplier_code_1117" model="res.partner">
 			<field name="name">De Zaai-Ster AGF</field>
+			<field name="ref">ZSTER</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -316,6 +342,7 @@
 		</record>
 		<record id="supplier_code_1119" model="res.partner">
 			<field name="name">Haffmans Reformproducten B.V.</field>
+			<field name="ref">HAFFM</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -328,6 +355,7 @@
 		</record>
 		<record id="supplier_code_1127" model="res.partner">
 			<field name="name">Unipharma</field>
+			<field name="ref">UPHAR</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -340,6 +368,7 @@
 		</record>
 		<record id="supplier_code_1144" model="res.partner">
 			<field name="name">Zintenz Aurora</field>
+			<field name="ref">ZNTNZ</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
@@ -352,6 +381,7 @@
 		</record>
 		<record id="supplier_code_1146" model="res.partner">
 			<field name="name">Argandia</field>
+			<field name="ref">ARGAN</field>
 			<field name="supplier">True</field>
 			<field name="customer" eval="0"></field>
 			<field name="is_company">True</field>
