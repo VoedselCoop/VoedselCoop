@@ -6,7 +6,6 @@
     'depends': ['sale', 'l10n_nl', 'point_of_sale', 'pos_deposit'],
     'data': [
         'view.xml',
-        'data/account.account.csv',
         'data/external_layout_shapetiket.xml',
         'cwa_module_report.xml',
         'data/res_partner.xml', 
