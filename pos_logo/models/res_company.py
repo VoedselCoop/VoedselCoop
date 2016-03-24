@@ -20,4 +20,4 @@ class Company(models.Model):
     pos_logo = fields.Binary(
         string='POS Receipt Logo',
         help=('Use an alternate logo on receipts printed from the '
-              'POS printer. The optimum size of the image is 300px by 300px.'))
+              'POS printer. The maximum size of the image is 255px by 512px.'))
